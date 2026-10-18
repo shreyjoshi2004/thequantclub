@@ -1,0 +1,8 @@
+<%# app/views/wiki/graphs/show.html.erb %>
+<% content_for :title, "Wiki Graph — TheQuantClub" %>
+
+<main class="wiki-graph-page">
+  <h1>Article graph</h1>
+  <p class="wiki-graph-hint">Click a node to open that article. Hover to see its direct links.</p>
+  <div id="wiki-graph" data-controller="wiki-graph" data-wiki-graph-url-value="<%= wiki_graph_data_path(format: :json) %>"></div>
+</main>

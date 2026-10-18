@@ -1,0 +1,4204 @@
+{
+  "source_repo": "https://github.com/Guido1Alessandro1Trevisan/coach-quant",
+  "source_file": "data/firm-questions.json",
+  "retrieved": "2026-10-17",
+  "note": "This repo only ships a firm->question TITLE index (this file). Question text, hints, and full worked solutions are not checked into the repo; they are served at runtime from public/questions/{title}.json on the live coachquant.com deployment (not present in git history). source_url below links each entry to its live page.",
+  "firm_count": 17,
+  "total_questions": 815,
+  "firms": [
+    {
+      "firm_name": "akuna-capital",
+      "firm_slug": "akuna-capital",
+      "question_count": 39,
+      "questions": [
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/akuna-capital/clockface-clash"
+        },
+        {
+          "title": "Coin Flip Dynamics",
+          "slug": "coin-flip-dynamics",
+          "source_url": "https://www.coachquant.com/akuna-capital/coin-flip-dynamics"
+        },
+        {
+          "title": "Coin Gambit Showdown",
+          "slug": "coin-gambit-showdown",
+          "source_url": "https://www.coachquant.com/akuna-capital/coin-gambit-showdown"
+        },
+        {
+          "title": "Color Clump Count",
+          "slug": "color-clump-count",
+          "source_url": "https://www.coachquant.com/akuna-capital/color-clump-count"
+        },
+        {
+          "title": "Covariance Quest",
+          "slug": "covariance-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/covariance-quest"
+        },
+        {
+          "title": "Curious Coin Conundrum",
+          "slug": "curious-coin-conundrum",
+          "source_url": "https://www.coachquant.com/akuna-capital/curious-coin-conundrum"
+        },
+        {
+          "title": "Dice Coin Cascade",
+          "slug": "dice-coin-cascade",
+          "source_url": "https://www.coachquant.com/akuna-capital/dice-coin-cascade"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/akuna-capital/dice-delight-dilemma"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/akuna-capital/dicey-decisions"
+        },
+        {
+          "title": "Digit Dawn Probability",
+          "slug": "digit-dawn-probability",
+          "source_url": "https://www.coachquant.com/akuna-capital/digit-dawn-probability"
+        },
+        {
+          "title": "Digit Dilemma Sum",
+          "slug": "digit-dilemma-sum",
+          "source_url": "https://www.coachquant.com/akuna-capital/digit-dilemma-sum"
+        },
+        {
+          "title": "Flip Fate Fortune",
+          "slug": "flip-fate-fortune",
+          "source_url": "https://www.coachquant.com/akuna-capital/flip-fate-fortune"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/akuna-capital/heads-prediction-puzzle"
+        },
+        {
+          "title": "Heads Quest",
+          "slug": "heads-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/heads-quest"
+        },
+        {
+          "title": "Hidden Heads Hunt",
+          "slug": "hidden-heads-hunt",
+          "source_url": "https://www.coachquant.com/akuna-capital/hidden-heads-hunt"
+        },
+        {
+          "title": "Infinite Coin Toss",
+          "slug": "infinite-coin-toss",
+          "source_url": "https://www.coachquant.com/akuna-capital/infinite-coin-toss"
+        },
+        {
+          "title": "Marble Escape Game",
+          "slug": "marble-escape-game",
+          "source_url": "https://www.coachquant.com/akuna-capital/marble-escape-game"
+        },
+        {
+          "title": "Eggsplosive Heights",
+          "slug": "eggsplosive-heights",
+          "source_url": "https://www.coachquant.com/akuna-capital/eggsplosive-heights"
+        },
+        {
+          "title": "Match Madness",
+          "slug": "match-madness",
+          "source_url": "https://www.coachquant.com/akuna-capital/match-madness"
+        },
+        {
+          "title": "Egg Drop Dilemma",
+          "slug": "egg-drop-dilemma",
+          "source_url": "https://www.coachquant.com/akuna-capital/egg-drop-dilemma"
+        },
+        {
+          "title": "Quarter Time Twist",
+          "slug": "quarter-time-twist",
+          "source_url": "https://www.coachquant.com/akuna-capital/quarter-time-twist"
+        },
+        {
+          "title": "Random Max Quest",
+          "slug": "random-max-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/random-max-quest"
+        },
+        {
+          "title": "Rope Slice Puzzle",
+          "slug": "rope-slice-puzzle",
+          "source_url": "https://www.coachquant.com/akuna-capital/rope-slice-puzzle"
+        },
+        {
+          "title": "Shuffling Ascent",
+          "slug": "shuffling-ascent",
+          "source_url": "https://www.coachquant.com/akuna-capital/shuffling-ascent"
+        },
+        {
+          "title": "Hat Gamble Strategy",
+          "slug": "hat-gamble-strategy",
+          "source_url": "https://www.coachquant.com/akuna-capital/hat-gamble-strategy"
+        },
+        {
+          "title": "Sine Meets Line",
+          "slug": "sine-meets-line",
+          "source_url": "https://www.coachquant.com/akuna-capital/sine-meets-line"
+        },
+        {
+          "title": "Coin Chase Duel",
+          "slug": "coin-chase-duel",
+          "source_url": "https://www.coachquant.com/akuna-capital/coin-chase-duel"
+        },
+        {
+          "title": "Five Face Quest",
+          "slug": "five-face-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/five-face-quest"
+        },
+        {
+          "title": "Chasing Aces",
+          "slug": "chasing-aces",
+          "source_url": "https://www.coachquant.com/akuna-capital/chasing-aces"
+        },
+        {
+          "title": "Sum Threshold Quest",
+          "slug": "sum-threshold-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/sum-threshold-quest"
+        },
+        {
+          "title": "Summing Up Surprises",
+          "slug": "summing-up-surprises",
+          "source_url": "https://www.coachquant.com/akuna-capital/summing-up-surprises"
+        },
+        {
+          "title": "Timewarp Call Option",
+          "slug": "timewarp-call-option",
+          "source_url": "https://www.coachquant.com/akuna-capital/timewarp-call-option"
+        },
+        {
+          "title": "Trailing Zeros Quest",
+          "slug": "trailing-zeros-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/trailing-zeros-quest"
+        },
+        {
+          "title": "Triad Transport Twist",
+          "slug": "triad-transport-twist",
+          "source_url": "https://www.coachquant.com/akuna-capital/triad-transport-twist"
+        },
+        {
+          "title": "Triangular Ant Trek",
+          "slug": "triangular-ant-trek",
+          "source_url": "https://www.coachquant.com/akuna-capital/triangular-ant-trek"
+        },
+        {
+          "title": "Triangular Chaos Distribution",
+          "slug": "triangular-chaos-distribution",
+          "source_url": "https://www.coachquant.com/akuna-capital/triangular-chaos-distribution"
+        },
+        {
+          "title": "Wandering Falloff",
+          "slug": "wandering-falloff",
+          "source_url": "https://www.coachquant.com/akuna-capital/wandering-falloff"
+        },
+        {
+          "title": "Whispering Sequence",
+          "slug": "whispering-sequence",
+          "source_url": "https://www.coachquant.com/akuna-capital/whispering-sequence"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/akuna-capital/dice-face-quest"
+        }
+      ]
+    },
+    {
+      "firm_name": "belvedere-trading",
+      "firm_slug": "belvedere-trading",
+      "question_count": 32,
+      "questions": [
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/belvedere-trading/aging-circle-spin"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/bean-weight-quest"
+        },
+        {
+          "title": "Bullseye Odds",
+          "slug": "bullseye-odds",
+          "source_url": "https://www.coachquant.com/belvedere-trading/bullseye-odds"
+        },
+        {
+          "title": "Chance Meeting",
+          "slug": "chance-meeting",
+          "source_url": "https://www.coachquant.com/belvedere-trading/chance-meeting"
+        },
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/belvedere-trading/clockface-clash"
+        },
+        {
+          "title": "Coin Clash Chase",
+          "slug": "coin-clash-chase",
+          "source_url": "https://www.coachquant.com/belvedere-trading/coin-clash-chase"
+        },
+        {
+          "title": "Dice Climb",
+          "slug": "dice-climb",
+          "source_url": "https://www.coachquant.com/belvedere-trading/dice-climb"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/belvedere-trading/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Product Quest",
+          "slug": "dice-product-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/dice-product-quest"
+        },
+        {
+          "title": "Dice Showdown",
+          "slug": "dice-showdown",
+          "source_url": "https://www.coachquant.com/belvedere-trading/dice-showdown"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/belvedere-trading/dicey-decisions"
+        },
+        {
+          "title": "Equal Flip Alchemy",
+          "slug": "equal-flip-alchemy",
+          "source_url": "https://www.coachquant.com/belvedere-trading/equal-flip-alchemy"
+        },
+        {
+          "title": "Factor Quandary",
+          "slug": "factor-quandary",
+          "source_url": "https://www.coachquant.com/belvedere-trading/factor-quandary"
+        },
+        {
+          "title": "Heavy Bean Quest",
+          "slug": "heavy-bean-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/heavy-bean-quest"
+        },
+        {
+          "title": "High Rollers Expectation",
+          "slug": "high-rollers-expectation",
+          "source_url": "https://www.coachquant.com/belvedere-trading/high-rollers-expectation"
+        },
+        {
+          "title": "Infinite Coin Toss",
+          "slug": "infinite-coin-toss",
+          "source_url": "https://www.coachquant.com/belvedere-trading/infinite-coin-toss"
+        },
+        {
+          "title": "Inner Circle Chance",
+          "slug": "inner-circle-chance",
+          "source_url": "https://www.coachquant.com/belvedere-trading/inner-circle-chance"
+        },
+        {
+          "title": "Fishy Triples Conundrum",
+          "slug": "fishy-triples-conundrum",
+          "source_url": "https://www.coachquant.com/belvedere-trading/fishy-triples-conundrum"
+        },
+        {
+          "title": "Lantern Bridge Dash",
+          "slug": "lantern-bridge-dash",
+          "source_url": "https://www.coachquant.com/belvedere-trading/lantern-bridge-dash"
+        },
+        {
+          "title": "Linear Curve Quest",
+          "slug": "linear-curve-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/linear-curve-quest"
+        },
+        {
+          "title": "Marble Escape Game",
+          "slug": "marble-escape-game",
+          "source_url": "https://www.coachquant.com/belvedere-trading/marble-escape-game"
+        },
+        {
+          "title": "Odd Sphere Quest",
+          "slug": "odd-sphere-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/odd-sphere-quest"
+        },
+        {
+          "title": "Power Mod Mavericks",
+          "slug": "power-mod-mavericks",
+          "source_url": "https://www.coachquant.com/belvedere-trading/power-mod-mavericks"
+        },
+        {
+          "title": "Power Play Modulo",
+          "slug": "power-play-modulo",
+          "source_url": "https://www.coachquant.com/belvedere-trading/power-play-modulo"
+        },
+        {
+          "title": "Quarter Time Twist",
+          "slug": "quarter-time-twist",
+          "source_url": "https://www.coachquant.com/belvedere-trading/quarter-time-twist"
+        },
+        {
+          "title": "Ring Roulette",
+          "slug": "ring-roulette",
+          "source_url": "https://www.coachquant.com/belvedere-trading/ring-roulette"
+        },
+        {
+          "title": "Root Quest",
+          "slug": "root-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/root-quest"
+        },
+        {
+          "title": "Six Streak Quest",
+          "slug": "six-streak-quest",
+          "source_url": "https://www.coachquant.com/belvedere-trading/six-streak-quest"
+        },
+        {
+          "title": "Speed Lap Puzzle",
+          "slug": "speed-lap-puzzle",
+          "source_url": "https://www.coachquant.com/belvedere-trading/speed-lap-puzzle"
+        },
+        {
+          "title": "Sum and Product Puzzle",
+          "slug": "sum-and-product-puzzle",
+          "source_url": "https://www.coachquant.com/belvedere-trading/sum-and-product-puzzle"
+        },
+        {
+          "title": "Triad Prime Hunt",
+          "slug": "triad-prime-hunt",
+          "source_url": "https://www.coachquant.com/belvedere-trading/triad-prime-hunt"
+        },
+        {
+          "title": "Triple Match Chance",
+          "slug": "triple-match-chance",
+          "source_url": "https://www.coachquant.com/belvedere-trading/triple-match-chance"
+        }
+      ]
+    },
+    {
+      "firm_name": "citadel",
+      "firm_slug": "citadel",
+      "question_count": 116,
+      "questions": [
+        {
+          "title": "Basketball Decider",
+          "slug": "basketball-decider",
+          "source_url": "https://www.coachquant.com/citadel/basketball-decider"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/citadel/bean-weight-quest"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/citadel/biased-flip-picks"
+        },
+        {
+          "title": "Blue Overload Quest",
+          "slug": "blue-overload-quest",
+          "source_url": "https://www.coachquant.com/citadel/blue-overload-quest"
+        },
+        {
+          "title": "Bread Slice Triangles",
+          "slug": "bread-slice-triangles",
+          "source_url": "https://www.coachquant.com/citadel/bread-slice-triangles"
+        },
+        {
+          "title": "Bullseye Odds",
+          "slug": "bullseye-odds",
+          "source_url": "https://www.coachquant.com/citadel/bullseye-odds"
+        },
+        {
+          "title": "Chance Meeting",
+          "slug": "chance-meeting",
+          "source_url": "https://www.coachquant.com/citadel/chance-meeting"
+        },
+        {
+          "title": "Cheesecake Geometry",
+          "slug": "cheesecake-geometry",
+          "source_url": "https://www.coachquant.com/citadel/cheesecake-geometry"
+        },
+        {
+          "title": "Cinema Seat Shuffle",
+          "slug": "cinema-seat-shuffle",
+          "source_url": "https://www.coachquant.com/citadel/cinema-seat-shuffle"
+        },
+        {
+          "title": "Circle Eviction Enigma",
+          "slug": "circle-eviction-enigma",
+          "source_url": "https://www.coachquant.com/citadel/circle-eviction-enigma"
+        },
+        {
+          "title": "Circle Survivor",
+          "slug": "circle-survivor",
+          "source_url": "https://www.coachquant.com/citadel/circle-survivor"
+        },
+        {
+          "title": "Circle Triad Tango",
+          "slug": "circle-triad-tango",
+          "source_url": "https://www.coachquant.com/citadel/circle-triad-tango"
+        },
+        {
+          "title": "Circle Trio Gamble",
+          "slug": "circle-trio-gamble",
+          "source_url": "https://www.coachquant.com/citadel/circle-trio-gamble"
+        },
+        {
+          "title": "Coin Flip Alchemy",
+          "slug": "coin-flip-alchemy",
+          "source_url": "https://www.coachquant.com/citadel/coin-flip-alchemy"
+        },
+        {
+          "title": "Coin Flip Paradox",
+          "slug": "coin-flip-paradox",
+          "source_url": "https://www.coachquant.com/citadel/coin-flip-paradox"
+        },
+        {
+          "title": "Coin Toss Parity",
+          "slug": "coin-toss-parity",
+          "source_url": "https://www.coachquant.com/citadel/coin-toss-parity"
+        },
+        {
+          "title": "Colorful Coincidence",
+          "slug": "colorful-coincidence",
+          "source_url": "https://www.coachquant.com/citadel/colorful-coincidence"
+        },
+        {
+          "title": "Corner Cube Conundrum",
+          "slug": "corner-cube-conundrum",
+          "source_url": "https://www.coachquant.com/citadel/corner-cube-conundrum"
+        },
+        {
+          "title": "Correlation Triangles",
+          "slug": "correlation-triangles",
+          "source_url": "https://www.coachquant.com/citadel/correlation-triangles"
+        },
+        {
+          "title": "Covariance Conundrum",
+          "slug": "covariance-conundrum",
+          "source_url": "https://www.coachquant.com/citadel/covariance-conundrum"
+        },
+        {
+          "title": "Crimson Roll",
+          "slug": "crimson-roll",
+          "source_url": "https://www.coachquant.com/citadel/crimson-roll"
+        },
+        {
+          "title": "Dark Deck Dilemma",
+          "slug": "dark-deck-dilemma",
+          "source_url": "https://www.coachquant.com/citadel/dark-deck-dilemma"
+        },
+        {
+          "title": "Dialing Dreams",
+          "slug": "dialing-dreams",
+          "source_url": "https://www.coachquant.com/citadel/dialing-dreams"
+        },
+        {
+          "title": "Dice Dilemma Delight",
+          "slug": "dice-dilemma-delight",
+          "source_url": "https://www.coachquant.com/citadel/dice-dilemma-delight"
+        },
+        {
+          "title": "Dice Double Dare",
+          "slug": "dice-double-dare",
+          "source_url": "https://www.coachquant.com/citadel/dice-double-dare"
+        },
+        {
+          "title": "Dice Gamble Quandary",
+          "slug": "dice-gamble-quandary",
+          "source_url": "https://www.coachquant.com/citadel/dice-gamble-quandary"
+        },
+        {
+          "title": "Dice Ladder Expectation",
+          "slug": "dice-ladder-expectation",
+          "source_url": "https://www.coachquant.com/citadel/dice-ladder-expectation"
+        },
+        {
+          "title": "Dice Memory Repeat",
+          "slug": "dice-memory-repeat",
+          "source_url": "https://www.coachquant.com/citadel/dice-memory-repeat"
+        },
+        {
+          "title": "Dice Range Quest",
+          "slug": "dice-range-quest",
+          "source_url": "https://www.coachquant.com/citadel/dice-range-quest"
+        },
+        {
+          "title": "Dice Strategy Duel",
+          "slug": "dice-strategy-duel",
+          "source_url": "https://www.coachquant.com/citadel/dice-strategy-duel"
+        },
+        {
+          "title": "Dice Trio Minima",
+          "slug": "dice-trio-minima",
+          "source_url": "https://www.coachquant.com/citadel/dice-trio-minima"
+        },
+        {
+          "title": "Dice Under Fifty",
+          "slug": "dice-under-fifty",
+          "source_url": "https://www.coachquant.com/citadel/dice-under-fifty"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/citadel/dicey-decisions"
+        },
+        {
+          "title": "Divisor Hunt",
+          "slug": "divisor-hunt",
+          "source_url": "https://www.coachquant.com/citadel/divisor-hunt"
+        },
+        {
+          "title": "Donation Dynamics",
+          "slug": "donation-dynamics",
+          "source_url": "https://www.coachquant.com/citadel/donation-dynamics"
+        },
+        {
+          "title": "Duo Draw Drama",
+          "slug": "duo-draw-drama",
+          "source_url": "https://www.coachquant.com/citadel/duo-draw-drama"
+        },
+        {
+          "title": "Endless Square Roots",
+          "slug": "endless-square-roots",
+          "source_url": "https://www.coachquant.com/citadel/endless-square-roots"
+        },
+        {
+          "title": "Equal Growth Riddle",
+          "slug": "equal-growth-riddle",
+          "source_url": "https://www.coachquant.com/citadel/equal-growth-riddle"
+        },
+        {
+          "title": "Even Heads Challenge",
+          "slug": "even-heads-challenge",
+          "source_url": "https://www.coachquant.com/citadel/even-heads-challenge"
+        },
+        {
+          "title": "Exceeding Gaussian",
+          "slug": "exceeding-gaussian",
+          "source_url": "https://www.coachquant.com/citadel/exceeding-gaussian"
+        },
+        {
+          "title": "Fair Door Hunt",
+          "slug": "fair-door-hunt",
+          "source_url": "https://www.coachquant.com/citadel/fair-door-hunt"
+        },
+        {
+          "title": "Five Before Fate",
+          "slug": "five-before-fate",
+          "source_url": "https://www.coachquant.com/citadel/five-before-fate"
+        },
+        {
+          "title": "Fives Roulette",
+          "slug": "fives-roulette",
+          "source_url": "https://www.coachquant.com/citadel/fives-roulette"
+        },
+        {
+          "title": "Grid Collapse Probability",
+          "slug": "grid-collapse-probability",
+          "source_url": "https://www.coachquant.com/citadel/grid-collapse-probability"
+        },
+        {
+          "title": "Gridwalk Challenge",
+          "slug": "gridwalk-challenge",
+          "source_url": "https://www.coachquant.com/citadel/gridwalk-challenge"
+        },
+        {
+          "title": "Handshake Hoopla",
+          "slug": "handshake-hoopla",
+          "source_url": "https://www.coachquant.com/citadel/handshake-hoopla"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/citadel/dice-face-quest"
+        },
+        {
+          "title": "Handshake Puzzle",
+          "slug": "handshake-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/handshake-puzzle"
+        },
+        {
+          "title": "Hat Chaos Calculus",
+          "slug": "hat-chaos-calculus",
+          "source_url": "https://www.coachquant.com/citadel/hat-chaos-calculus"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/citadel/coin-clash"
+        },
+        {
+          "title": "Heads Below Five",
+          "slug": "heads-below-five",
+          "source_url": "https://www.coachquant.com/citadel/heads-below-five"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/heads-prediction-puzzle"
+        },
+        {
+          "title": "Duplicated Regression Puzzle",
+          "slug": "duplicated-regression-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/duplicated-regression-puzzle"
+        },
+        {
+          "title": "Heads Wins",
+          "slug": "heads-wins",
+          "source_url": "https://www.coachquant.com/citadel/heads-wins"
+        },
+        {
+          "title": "Hefty Quest",
+          "slug": "hefty-quest",
+          "source_url": "https://www.coachquant.com/citadel/hefty-quest"
+        },
+        {
+          "title": "Height Harmony",
+          "slug": "height-harmony",
+          "source_url": "https://www.coachquant.com/citadel/height-harmony"
+        },
+        {
+          "title": "Hidden Color Paradox",
+          "slug": "hidden-color-paradox",
+          "source_url": "https://www.coachquant.com/citadel/hidden-color-paradox"
+        },
+        {
+          "title": "High Rollers Expectation",
+          "slug": "high-rollers-expectation",
+          "source_url": "https://www.coachquant.com/citadel/high-rollers-expectation"
+        },
+        {
+          "title": "Inner Circle Chance",
+          "slug": "inner-circle-chance",
+          "source_url": "https://www.coachquant.com/citadel/inner-circle-chance"
+        },
+        {
+          "title": "Dice Dilemma",
+          "slug": "dice-dilemma",
+          "source_url": "https://www.coachquant.com/citadel/dice-dilemma"
+        },
+        {
+          "title": "Intersecting Cylinders Volume",
+          "slug": "intersecting-cylinders-volume",
+          "source_url": "https://www.coachquant.com/citadel/intersecting-cylinders-volume"
+        },
+        {
+          "title": "Intersecting Lines Probability",
+          "slug": "intersecting-lines-probability",
+          "source_url": "https://www.coachquant.com/citadel/intersecting-lines-probability"
+        },
+        {
+          "title": "King Flip Countdown",
+          "slug": "king-flip-countdown",
+          "source_url": "https://www.coachquant.com/citadel/king-flip-countdown"
+        },
+        {
+          "title": "Last Number Standing",
+          "slug": "last-number-standing",
+          "source_url": "https://www.coachquant.com/citadel/last-number-standing"
+        },
+        {
+          "title": "Correlate Bound Quest",
+          "slug": "correlate-bound-quest",
+          "source_url": "https://www.coachquant.com/citadel/correlate-bound-quest"
+        },
+        {
+          "title": "Lilypad Countdown",
+          "slug": "lilypad-countdown",
+          "source_url": "https://www.coachquant.com/citadel/lilypad-countdown"
+        },
+        {
+          "title": "Logarithmic Growth Twist",
+          "slug": "logarithmic-growth-twist",
+          "source_url": "https://www.coachquant.com/citadel/logarithmic-growth-twist"
+        },
+        {
+          "title": "Brownian Escape",
+          "slug": "brownian-escape",
+          "source_url": "https://www.coachquant.com/citadel/brownian-escape"
+        },
+        {
+          "title": "Logarithmic Wonderland",
+          "slug": "logarithmic-wonderland",
+          "source_url": "https://www.coachquant.com/citadel/logarithmic-wonderland"
+        },
+        {
+          "title": "Logs and Logic",
+          "slug": "logs-and-logic",
+          "source_url": "https://www.coachquant.com/citadel/logs-and-logic"
+        },
+        {
+          "title": "Dice Paradox Puzzle",
+          "slug": "dice-paradox-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/dice-paradox-puzzle"
+        },
+        {
+          "title": "Looping Labyrinth",
+          "slug": "looping-labyrinth",
+          "source_url": "https://www.coachquant.com/citadel/looping-labyrinth"
+        },
+        {
+          "title": "Lucky Even Tosses",
+          "slug": "lucky-even-tosses",
+          "source_url": "https://www.coachquant.com/citadel/lucky-even-tosses"
+        },
+        {
+          "title": "Double Dice Delight",
+          "slug": "double-dice-delight",
+          "source_url": "https://www.coachquant.com/citadel/double-dice-delight"
+        },
+        {
+          "title": "Marble Mindgame",
+          "slug": "marble-mindgame",
+          "source_url": "https://www.coachquant.com/citadel/marble-mindgame"
+        },
+        {
+          "title": "Max Die Four",
+          "slug": "max-die-four",
+          "source_url": "https://www.coachquant.com/citadel/max-die-four"
+        },
+        {
+          "title": "Nine Sum Quest",
+          "slug": "nine-sum-quest",
+          "source_url": "https://www.coachquant.com/citadel/nine-sum-quest"
+        },
+        {
+          "title": "Odd Chase Quest",
+          "slug": "odd-chase-quest",
+          "source_url": "https://www.coachquant.com/citadel/odd-chase-quest"
+        },
+        {
+          "title": "Painted Cubes Quest",
+          "slug": "painted-cubes-quest",
+          "source_url": "https://www.coachquant.com/citadel/painted-cubes-quest"
+        },
+        {
+          "title": "Path Puzzle Paths",
+          "slug": "path-puzzle-paths",
+          "source_url": "https://www.coachquant.com/citadel/path-puzzle-paths"
+        },
+        {
+          "title": "Beta Battle Probability",
+          "slug": "beta-battle-probability",
+          "source_url": "https://www.coachquant.com/citadel/beta-battle-probability"
+        },
+        {
+          "title": "Pizza Squad Variance",
+          "slug": "pizza-squad-variance",
+          "source_url": "https://www.coachquant.com/citadel/pizza-squad-variance"
+        },
+        {
+          "title": "Prep Odds Mixup",
+          "slug": "prep-odds-mixup",
+          "source_url": "https://www.coachquant.com/citadel/prep-odds-mixup"
+        },
+        {
+          "title": "Prime Roll Showdown",
+          "slug": "prime-roll-showdown",
+          "source_url": "https://www.coachquant.com/citadel/prime-roll-showdown"
+        },
+        {
+          "title": "Probability Puzzle",
+          "slug": "probability-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/probability-puzzle"
+        },
+        {
+          "title": "Race of Patterns",
+          "slug": "race-of-patterns",
+          "source_url": "https://www.coachquant.com/citadel/race-of-patterns"
+        },
+        {
+          "title": "Random Gap Chase",
+          "slug": "random-gap-chase",
+          "source_url": "https://www.coachquant.com/citadel/random-gap-chase"
+        },
+        {
+          "title": "Cylindrical Crossroads",
+          "slug": "cylindrical-crossroads",
+          "source_url": "https://www.coachquant.com/citadel/cylindrical-crossroads"
+        },
+        {
+          "title": "Random Reward Gamble",
+          "slug": "random-reward-gamble",
+          "source_url": "https://www.coachquant.com/citadel/random-reward-gamble"
+        },
+        {
+          "title": "Roll Gamble Strategy",
+          "slug": "roll-gamble-strategy",
+          "source_url": "https://www.coachquant.com/citadel/roll-gamble-strategy"
+        },
+        {
+          "title": "Roots of Power",
+          "slug": "roots-of-power",
+          "source_url": "https://www.coachquant.com/citadel/roots-of-power"
+        },
+        {
+          "title": "Royal Race Earnings",
+          "slug": "royal-race-earnings",
+          "source_url": "https://www.coachquant.com/citadel/royal-race-earnings"
+        },
+        {
+          "title": "Safe Code Puzzle",
+          "slug": "safe-code-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/safe-code-puzzle"
+        },
+        {
+          "title": "Sheep Paradox",
+          "slug": "sheep-paradox",
+          "source_url": "https://www.coachquant.com/citadel/sheep-paradox"
+        },
+        {
+          "title": "Shifted Expectation",
+          "slug": "shifted-expectation",
+          "source_url": "https://www.coachquant.com/citadel/shifted-expectation"
+        },
+        {
+          "title": "Fixed Points Quest",
+          "slug": "fixed-points-quest",
+          "source_url": "https://www.coachquant.com/citadel/fixed-points-quest"
+        },
+        {
+          "title": "Boundary Roulette",
+          "slug": "boundary-roulette",
+          "source_url": "https://www.coachquant.com/citadel/boundary-roulette"
+        },
+        {
+          "title": "Sock Pair Puzzle",
+          "slug": "sock-pair-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/sock-pair-puzzle"
+        },
+        {
+          "title": "Sphere Encapsulation Challenge",
+          "slug": "sphere-encapsulation-challenge",
+          "source_url": "https://www.coachquant.com/citadel/sphere-encapsulation-challenge"
+        },
+        {
+          "title": "Spherical Harmony",
+          "slug": "spherical-harmony",
+          "source_url": "https://www.coachquant.com/citadel/spherical-harmony"
+        },
+        {
+          "title": "Sprout Feast Frenzy",
+          "slug": "sprout-feast-frenzy",
+          "source_url": "https://www.coachquant.com/citadel/sprout-feast-frenzy"
+        },
+        {
+          "title": "Cube Crawl Quest",
+          "slug": "cube-crawl-quest",
+          "source_url": "https://www.coachquant.com/citadel/cube-crawl-quest"
+        },
+        {
+          "title": "Stickered Surface Cubes",
+          "slug": "stickered-surface-cubes",
+          "source_url": "https://www.coachquant.com/citadel/stickered-surface-cubes"
+        },
+        {
+          "title": "Stone Showdown Strategy",
+          "slug": "stone-showdown-strategy",
+          "source_url": "https://www.coachquant.com/citadel/stone-showdown-strategy"
+        },
+        {
+          "title": "Threshold Quest",
+          "slug": "threshold-quest",
+          "source_url": "https://www.coachquant.com/citadel/threshold-quest"
+        },
+        {
+          "title": "Triangular Ant Trek",
+          "slug": "triangular-ant-trek",
+          "source_url": "https://www.coachquant.com/citadel/triangular-ant-trek"
+        },
+        {
+          "title": "Triangular Square Quest",
+          "slug": "triangular-square-quest",
+          "source_url": "https://www.coachquant.com/citadel/triangular-square-quest"
+        },
+        {
+          "title": "Triangular Trisection",
+          "slug": "triangular-trisection",
+          "source_url": "https://www.coachquant.com/citadel/triangular-trisection"
+        },
+        {
+          "title": "Triple Ten Toss",
+          "slug": "triple-ten-toss",
+          "source_url": "https://www.coachquant.com/citadel/triple-ten-toss"
+        },
+        {
+          "title": "Tripod Balance Challenge",
+          "slug": "tripod-balance-challenge",
+          "source_url": "https://www.coachquant.com/citadel/tripod-balance-challenge"
+        },
+        {
+          "title": "Fixed Point Conundrum",
+          "slug": "fixed-point-conundrum",
+          "source_url": "https://www.coachquant.com/citadel/fixed-point-conundrum"
+        },
+        {
+          "title": "Uniform Puzzler",
+          "slug": "uniform-puzzler",
+          "source_url": "https://www.coachquant.com/citadel/uniform-puzzler"
+        },
+        {
+          "title": "Unlinked Puzzle",
+          "slug": "unlinked-puzzle",
+          "source_url": "https://www.coachquant.com/citadel/unlinked-puzzle"
+        },
+        {
+          "title": "Walkway Luck",
+          "slug": "walkway-luck",
+          "source_url": "https://www.coachquant.com/citadel/walkway-luck"
+        },
+        {
+          "title": "Weighted Dice Duet",
+          "slug": "weighted-dice-duet",
+          "source_url": "https://www.coachquant.com/citadel/weighted-dice-duet"
+        },
+        {
+          "title": "Absolute Expectation Twist",
+          "slug": "absolute-expectation-twist",
+          "source_url": "https://www.coachquant.com/citadel/absolute-expectation-twist"
+        }
+      ]
+    },
+    {
+      "firm_name": "drw",
+      "firm_slug": "drw",
+      "question_count": 20,
+      "questions": [
+        {
+          "title": "Absolute Expectation Twist",
+          "slug": "absolute-expectation-twist",
+          "source_url": "https://www.coachquant.com/drw/absolute-expectation-twist"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/drw/biased-flip-picks"
+        },
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/drw/clockface-clash"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/drw/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Gamble Quest",
+          "slug": "dice-gamble-quest",
+          "source_url": "https://www.coachquant.com/drw/dice-gamble-quest"
+        },
+        {
+          "title": "Dice Showdown",
+          "slug": "dice-showdown",
+          "source_url": "https://www.coachquant.com/drw/dice-showdown"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/drw/dicey-decisions"
+        },
+        {
+          "title": "Die Divergence Delight",
+          "slug": "die-divergence-delight",
+          "source_url": "https://www.coachquant.com/drw/die-divergence-delight"
+        },
+        {
+          "title": "Exponent Showdown",
+          "slug": "exponent-showdown",
+          "source_url": "https://www.coachquant.com/drw/exponent-showdown"
+        },
+        {
+          "title": "Factorial Count Quest",
+          "slug": "factorial-count-quest",
+          "source_url": "https://www.coachquant.com/drw/factorial-count-quest"
+        },
+        {
+          "title": "Fueling Odyssey",
+          "slug": "fueling-odyssey",
+          "source_url": "https://www.coachquant.com/drw/fueling-odyssey"
+        },
+        {
+          "title": "Inner Circle Chance",
+          "slug": "inner-circle-chance",
+          "source_url": "https://www.coachquant.com/drw/inner-circle-chance"
+        },
+        {
+          "title": "Random Delivery Fate",
+          "slug": "random-delivery-fate",
+          "source_url": "https://www.coachquant.com/drw/random-delivery-fate"
+        },
+        {
+          "title": "Beta Surprise Hunt",
+          "slug": "beta-surprise-hunt",
+          "source_url": "https://www.coachquant.com/drw/beta-surprise-hunt"
+        },
+        {
+          "title": "Threshold Quest",
+          "slug": "threshold-quest",
+          "source_url": "https://www.coachquant.com/drw/threshold-quest"
+        },
+        {
+          "title": "Triple Fastest Race",
+          "slug": "triple-fastest-race",
+          "source_url": "https://www.coachquant.com/drw/triple-fastest-race"
+        },
+        {
+          "title": "Uniform Puzzler",
+          "slug": "uniform-puzzler",
+          "source_url": "https://www.coachquant.com/drw/uniform-puzzler"
+        },
+        {
+          "title": "Urn Flip Payout",
+          "slug": "urn-flip-payout",
+          "source_url": "https://www.coachquant.com/drw/urn-flip-payout"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/drw/dice-face-quest"
+        },
+        {
+          "title": "Dice Difference Dream",
+          "slug": "dice-difference-dream",
+          "source_url": "https://www.coachquant.com/drw/dice-difference-dream"
+        }
+      ]
+    },
+    {
+      "firm_name": "dice",
+      "firm_slug": "dice",
+      "question_count": 5,
+      "questions": [
+        {
+          "title": "Dice Peaks Quest",
+          "slug": "dice-peaks-quest",
+          "source_url": "https://www.coachquant.com/dice/dice-peaks-quest"
+        },
+        {
+          "title": "Dueling Tails Pursuit",
+          "slug": "dueling-tails-pursuit",
+          "source_url": "https://www.coachquant.com/dice/dueling-tails-pursuit"
+        },
+        {
+          "title": "Fair Spread",
+          "slug": "fair-spread",
+          "source_url": "https://www.coachquant.com/dice/fair-spread"
+        },
+        {
+          "title": "Quiz Fate Gamble",
+          "slug": "quiz-fate-gamble",
+          "source_url": "https://www.coachquant.com/dice/quiz-fate-gamble"
+        },
+        {
+          "title": "Triple Entanglement",
+          "slug": "triple-entanglement",
+          "source_url": "https://www.coachquant.com/dice/triple-entanglement"
+        }
+      ]
+    },
+    {
+      "firm_name": "five-rings",
+      "firm_slug": "five-rings",
+      "question_count": 58,
+      "questions": [
+        {
+          "title": "Accident Odds Shrink",
+          "slug": "accident-odds-shrink",
+          "source_url": "https://www.coachquant.com/five-rings/accident-odds-shrink"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/five-rings/biased-flip-picks"
+        },
+        {
+          "title": "Binary Factorial Fade",
+          "slug": "binary-factorial-fade",
+          "source_url": "https://www.coachquant.com/five-rings/binary-factorial-fade"
+        },
+        {
+          "title": "Birthday Paradox Quest",
+          "slug": "birthday-paradox-quest",
+          "source_url": "https://www.coachquant.com/five-rings/birthday-paradox-quest"
+        },
+        {
+          "title": "Boundless Barrier Race",
+          "slug": "boundless-barrier-race",
+          "source_url": "https://www.coachquant.com/five-rings/boundless-barrier-race"
+        },
+        {
+          "title": "Boundless Bunny Hops",
+          "slug": "boundless-bunny-hops",
+          "source_url": "https://www.coachquant.com/five-rings/boundless-bunny-hops"
+        },
+        {
+          "title": "Chance Snip Spread",
+          "slug": "chance-snip-spread",
+          "source_url": "https://www.coachquant.com/five-rings/chance-snip-spread"
+        },
+        {
+          "title": "Circle in Triangle",
+          "slug": "circle-in-triangle",
+          "source_url": "https://www.coachquant.com/five-rings/circle-in-triangle"
+        },
+        {
+          "title": "Coin Gambit Showdown",
+          "slug": "coin-gambit-showdown",
+          "source_url": "https://www.coachquant.com/five-rings/coin-gambit-showdown"
+        },
+        {
+          "title": "Coin Quest Countdown",
+          "slug": "coin-quest-countdown",
+          "source_url": "https://www.coachquant.com/five-rings/coin-quest-countdown"
+        },
+        {
+          "title": "Coin Toss Puzzle",
+          "slug": "coin-toss-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/coin-toss-puzzle"
+        },
+        {
+          "title": "Decay Delay",
+          "slug": "decay-delay",
+          "source_url": "https://www.coachquant.com/five-rings/decay-delay"
+        },
+        {
+          "title": "Dice Dilemma Dance",
+          "slug": "dice-dilemma-dance",
+          "source_url": "https://www.coachquant.com/five-rings/dice-dilemma-dance"
+        },
+        {
+          "title": "Dicey Sum Quest",
+          "slug": "dicey-sum-quest",
+          "source_url": "https://www.coachquant.com/five-rings/dicey-sum-quest"
+        },
+        {
+          "title": "Disk Center Drift",
+          "slug": "disk-center-drift",
+          "source_url": "https://www.coachquant.com/five-rings/disk-center-drift"
+        },
+        {
+          "title": "Even Leapways Challenge",
+          "slug": "even-leapways-challenge",
+          "source_url": "https://www.coachquant.com/five-rings/even-leapways-challenge"
+        },
+        {
+          "title": "Handshake Harmony",
+          "slug": "handshake-harmony",
+          "source_url": "https://www.coachquant.com/five-rings/handshake-harmony"
+        },
+        {
+          "title": "Handshake Hustle",
+          "slug": "handshake-hustle",
+          "source_url": "https://www.coachquant.com/five-rings/handshake-hustle"
+        },
+        {
+          "title": "Hopping Odyssey",
+          "slug": "hopping-odyssey",
+          "source_url": "https://www.coachquant.com/five-rings/hopping-odyssey"
+        },
+        {
+          "title": "Leap Quest",
+          "slug": "leap-quest",
+          "source_url": "https://www.coachquant.com/five-rings/leap-quest"
+        },
+        {
+          "title": "Letter Blitz Strategy",
+          "slug": "letter-blitz-strategy",
+          "source_url": "https://www.coachquant.com/five-rings/letter-blitz-strategy"
+        },
+        {
+          "title": "Line Division Puzzle",
+          "slug": "line-division-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/line-division-puzzle"
+        },
+        {
+          "title": "Logarithmic Growth Twist",
+          "slug": "logarithmic-growth-twist",
+          "source_url": "https://www.coachquant.com/five-rings/logarithmic-growth-twist"
+        },
+        {
+          "title": "Min Sequence Magic",
+          "slug": "min-sequence-magic",
+          "source_url": "https://www.coachquant.com/five-rings/min-sequence-magic"
+        },
+        {
+          "title": "Mini Compounding Quest",
+          "slug": "mini-compounding-quest",
+          "source_url": "https://www.coachquant.com/five-rings/mini-compounding-quest"
+        },
+        {
+          "title": "Opposite Sum Swap",
+          "slug": "opposite-sum-swap",
+          "source_url": "https://www.coachquant.com/five-rings/opposite-sum-swap"
+        },
+        {
+          "title": "Orb Forecast Challenge",
+          "slug": "orb-forecast-challenge",
+          "source_url": "https://www.coachquant.com/five-rings/orb-forecast-challenge"
+        },
+        {
+          "title": "Painted Cube Puzzle",
+          "slug": "painted-cube-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/painted-cube-puzzle"
+        },
+        {
+          "title": "Peak Predicting",
+          "slug": "peak-predicting",
+          "source_url": "https://www.coachquant.com/five-rings/peak-predicting"
+        },
+        {
+          "title": "Perfect Pair Mystique",
+          "slug": "perfect-pair-mystique",
+          "source_url": "https://www.coachquant.com/five-rings/perfect-pair-mystique"
+        },
+        {
+          "title": "Poison Puzzle",
+          "slug": "poison-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/poison-puzzle"
+        },
+        {
+          "title": "Quadrant Surprise",
+          "slug": "quadrant-surprise",
+          "source_url": "https://www.coachquant.com/five-rings/quadrant-surprise"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/heads-prediction-puzzle"
+        },
+        {
+          "title": "Random Max Quest",
+          "slug": "random-max-quest",
+          "source_url": "https://www.coachquant.com/five-rings/random-max-quest"
+        },
+        {
+          "title": "Correlated Contrasts",
+          "slug": "correlated-contrasts",
+          "source_url": "https://www.coachquant.com/five-rings/correlated-contrasts"
+        },
+        {
+          "title": "Random Tango",
+          "slug": "random-tango",
+          "source_url": "https://www.coachquant.com/five-rings/random-tango"
+        },
+        {
+          "title": "Rapid Growth",
+          "slug": "rapid-growth",
+          "source_url": "https://www.coachquant.com/five-rings/rapid-growth"
+        },
+        {
+          "title": "Factorial Count Quest",
+          "slug": "factorial-count-quest",
+          "source_url": "https://www.coachquant.com/five-rings/factorial-count-quest"
+        },
+        {
+          "title": "Hidden Expectation",
+          "slug": "hidden-expectation",
+          "source_url": "https://www.coachquant.com/five-rings/hidden-expectation"
+        },
+        {
+          "title": "Rating Showdown",
+          "slug": "rating-showdown",
+          "source_url": "https://www.coachquant.com/five-rings/rating-showdown"
+        },
+        {
+          "title": "Red Cube Hunt",
+          "slug": "red-cube-hunt",
+          "source_url": "https://www.coachquant.com/five-rings/red-cube-hunt"
+        },
+        {
+          "title": "Digit Deluge",
+          "slug": "digit-deluge",
+          "source_url": "https://www.coachquant.com/five-rings/digit-deluge"
+        },
+        {
+          "title": "Glove Harmony Quandary",
+          "slug": "glove-harmony-quandary",
+          "source_url": "https://www.coachquant.com/five-rings/glove-harmony-quandary"
+        },
+        {
+          "title": "Rope Slice Puzzle",
+          "slug": "rope-slice-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/rope-slice-puzzle"
+        },
+        {
+          "title": "Slope Swaperoo",
+          "slug": "slope-swaperoo",
+          "source_url": "https://www.coachquant.com/five-rings/slope-swaperoo"
+        },
+        {
+          "title": "Gaussian Inequality Quest",
+          "slug": "gaussian-inequality-quest",
+          "source_url": "https://www.coachquant.com/five-rings/gaussian-inequality-quest"
+        },
+        {
+          "title": "Equilibrium Toss Paradox",
+          "slug": "equilibrium-toss-paradox",
+          "source_url": "https://www.coachquant.com/five-rings/equilibrium-toss-paradox"
+        },
+        {
+          "title": "Sphere Triangle Maximization",
+          "slug": "sphere-triangle-maximization",
+          "source_url": "https://www.coachquant.com/five-rings/sphere-triangle-maximization"
+        },
+        {
+          "title": "Squad Showdown Chance",
+          "slug": "squad-showdown-chance",
+          "source_url": "https://www.coachquant.com/five-rings/squad-showdown-chance"
+        },
+        {
+          "title": "Diophantine Dance",
+          "slug": "diophantine-dance",
+          "source_url": "https://www.coachquant.com/five-rings/diophantine-dance"
+        },
+        {
+          "title": "Square Expectation Quest",
+          "slug": "square-expectation-quest",
+          "source_url": "https://www.coachquant.com/five-rings/square-expectation-quest"
+        },
+        {
+          "title": "Stairway Sprint",
+          "slug": "stairway-sprint",
+          "source_url": "https://www.coachquant.com/five-rings/stairway-sprint"
+        },
+        {
+          "title": "Sum Pair Puzzle",
+          "slug": "sum-pair-puzzle",
+          "source_url": "https://www.coachquant.com/five-rings/sum-pair-puzzle"
+        },
+        {
+          "title": "Dice Diversity Dive",
+          "slug": "dice-diversity-dive",
+          "source_url": "https://www.coachquant.com/five-rings/dice-diversity-dive"
+        },
+        {
+          "title": "Sum Shuffle",
+          "slug": "sum-shuffle",
+          "source_url": "https://www.coachquant.com/five-rings/sum-shuffle"
+        },
+        {
+          "title": "Uneven Odds",
+          "slug": "uneven-odds",
+          "source_url": "https://www.coachquant.com/five-rings/uneven-odds"
+        },
+        {
+          "title": "Victorious Pathway",
+          "slug": "victorious-pathway",
+          "source_url": "https://www.coachquant.com/five-rings/victorious-pathway"
+        },
+        {
+          "title": "Win Margin Battle",
+          "slug": "win-margin-battle",
+          "source_url": "https://www.coachquant.com/five-rings/win-margin-battle"
+        }
+      ]
+    },
+    {
+      "firm_name": "goldman-sachs",
+      "firm_slug": "goldman-sachs",
+      "question_count": 52,
+      "questions": [
+        {
+          "title": "Absolute Expectation Twist",
+          "slug": "absolute-expectation-twist",
+          "source_url": "https://www.coachquant.com/goldman-sachs/absolute-expectation-twist"
+        },
+        {
+          "title": "Accident Odds Shrink",
+          "slug": "accident-odds-shrink",
+          "source_url": "https://www.coachquant.com/goldman-sachs/accident-odds-shrink"
+        },
+        {
+          "title": "Ace Probability Playoff",
+          "slug": "ace-probability-playoff",
+          "source_url": "https://www.coachquant.com/goldman-sachs/ace-probability-playoff"
+        },
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/goldman-sachs/aging-circle-spin"
+        },
+        {
+          "title": "Birthday Paradox Quest",
+          "slug": "birthday-paradox-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/birthday-paradox-quest"
+        },
+        {
+          "title": "Boundless Barrier Race",
+          "slug": "boundless-barrier-race",
+          "source_url": "https://www.coachquant.com/goldman-sachs/boundless-barrier-race"
+        },
+        {
+          "title": "Chopping Trilogue",
+          "slug": "chopping-trilogue",
+          "source_url": "https://www.coachquant.com/goldman-sachs/chopping-trilogue"
+        },
+        {
+          "title": "Coin Flip Dynamics",
+          "slug": "coin-flip-dynamics",
+          "source_url": "https://www.coachquant.com/goldman-sachs/coin-flip-dynamics"
+        },
+        {
+          "title": "Coin Gambit Showdown",
+          "slug": "coin-gambit-showdown",
+          "source_url": "https://www.coachquant.com/goldman-sachs/coin-gambit-showdown"
+        },
+        {
+          "title": "Coin Profit Quest",
+          "slug": "coin-profit-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/coin-profit-quest"
+        },
+        {
+          "title": "Coin Streak Quest",
+          "slug": "coin-streak-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/coin-streak-quest"
+        },
+        {
+          "title": "Color Clump Count",
+          "slug": "color-clump-count",
+          "source_url": "https://www.coachquant.com/goldman-sachs/color-clump-count"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/goldman-sachs/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Duel Dilemma",
+          "slug": "dice-duel-dilemma",
+          "source_url": "https://www.coachquant.com/goldman-sachs/dice-duel-dilemma"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/goldman-sachs/dicey-decisions"
+        },
+        {
+          "title": "Double Headspin",
+          "slug": "double-headspin",
+          "source_url": "https://www.coachquant.com/goldman-sachs/double-headspin"
+        },
+        {
+          "title": "Eigenvalue Squaredogs",
+          "slug": "eigenvalue-squaredogs",
+          "source_url": "https://www.coachquant.com/goldman-sachs/eigenvalue-squaredogs"
+        },
+        {
+          "title": "Graph Safari Quest",
+          "slug": "graph-safari-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/graph-safari-quest"
+        },
+        {
+          "title": "Heads Streak Quest",
+          "slug": "heads-streak-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/heads-streak-quest"
+        },
+        {
+          "title": "Hefty Hundred Showdown",
+          "slug": "hefty-hundred-showdown",
+          "source_url": "https://www.coachquant.com/goldman-sachs/hefty-hundred-showdown"
+        },
+        {
+          "title": "Incredible Arbitrage Equation",
+          "slug": "incredible-arbitrage-equation",
+          "source_url": "https://www.coachquant.com/goldman-sachs/incredible-arbitrage-equation"
+        },
+        {
+          "title": "Infant Gender Mystery",
+          "slug": "infant-gender-mystery",
+          "source_url": "https://www.coachquant.com/goldman-sachs/infant-gender-mystery"
+        },
+        {
+          "title": "Infinite Coin Toss",
+          "slug": "infinite-coin-toss",
+          "source_url": "https://www.coachquant.com/goldman-sachs/infinite-coin-toss"
+        },
+        {
+          "title": "Interval Tango",
+          "slug": "interval-tango",
+          "source_url": "https://www.coachquant.com/goldman-sachs/interval-tango"
+        },
+        {
+          "title": "Leap Quest",
+          "slug": "leap-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/leap-quest"
+        },
+        {
+          "title": "Four of Fate",
+          "slug": "four-of-fate",
+          "source_url": "https://www.coachquant.com/goldman-sachs/four-of-fate"
+        },
+        {
+          "title": "Logarithmic Growth Twist",
+          "slug": "logarithmic-growth-twist",
+          "source_url": "https://www.coachquant.com/goldman-sachs/logarithmic-growth-twist"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/goldman-sachs/coin-clash"
+        },
+        {
+          "title": "Circle Randomness",
+          "slug": "circle-randomness",
+          "source_url": "https://www.coachquant.com/goldman-sachs/circle-randomness"
+        },
+        {
+          "title": "Beta Surprise Hunt",
+          "slug": "beta-surprise-hunt",
+          "source_url": "https://www.coachquant.com/goldman-sachs/beta-surprise-hunt"
+        },
+        {
+          "title": "Odds Alchemy",
+          "slug": "odds-alchemy",
+          "source_url": "https://www.coachquant.com/goldman-sachs/odds-alchemy"
+        },
+        {
+          "title": "Diophantine Dance",
+          "slug": "diophantine-dance",
+          "source_url": "https://www.coachquant.com/goldman-sachs/diophantine-dance"
+        },
+        {
+          "title": "Orderly Coin Dance",
+          "slug": "orderly-coin-dance",
+          "source_url": "https://www.coachquant.com/goldman-sachs/orderly-coin-dance"
+        },
+        {
+          "title": "Cubed Wanderer Variance",
+          "slug": "cubed-wanderer-variance",
+          "source_url": "https://www.coachquant.com/goldman-sachs/cubed-wanderer-variance"
+        },
+        {
+          "title": "Pirate Diplomacy",
+          "slug": "pirate-diplomacy",
+          "source_url": "https://www.coachquant.com/goldman-sachs/pirate-diplomacy"
+        },
+        {
+          "title": "Bus Roulette Wait",
+          "slug": "bus-roulette-wait",
+          "source_url": "https://www.coachquant.com/goldman-sachs/bus-roulette-wait"
+        },
+        {
+          "title": "Poison Puzzle",
+          "slug": "poison-puzzle",
+          "source_url": "https://www.coachquant.com/goldman-sachs/poison-puzzle"
+        },
+        {
+          "title": "Random Max Quest",
+          "slug": "random-max-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/random-max-quest"
+        },
+        {
+          "title": "Random Triangle Quest",
+          "slug": "random-triangle-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/random-triangle-quest"
+        },
+        {
+          "title": "Ripple Radius Race",
+          "slug": "ripple-radius-race",
+          "source_url": "https://www.coachquant.com/goldman-sachs/ripple-radius-race"
+        },
+        {
+          "title": "Seven to Ten Magic",
+          "slug": "seven-to-ten-magic",
+          "source_url": "https://www.coachquant.com/goldman-sachs/seven-to-ten-magic"
+        },
+        {
+          "title": "Speedy Trio Quest",
+          "slug": "speedy-trio-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/speedy-trio-quest"
+        },
+        {
+          "title": "Stairway Sprint",
+          "slug": "stairway-sprint",
+          "source_url": "https://www.coachquant.com/goldman-sachs/stairway-sprint"
+        },
+        {
+          "title": "Stamp Sum Limit",
+          "slug": "stamp-sum-limit",
+          "source_url": "https://www.coachquant.com/goldman-sachs/stamp-sum-limit"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/dice-face-quest"
+        },
+        {
+          "title": "Straddle Jigsaw",
+          "slug": "straddle-jigsaw",
+          "source_url": "https://www.coachquant.com/goldman-sachs/straddle-jigsaw"
+        },
+        {
+          "title": "Double Leap Dance",
+          "slug": "double-leap-dance",
+          "source_url": "https://www.coachquant.com/goldman-sachs/double-leap-dance"
+        },
+        {
+          "title": "Straddle Symmetry Shuffle",
+          "slug": "straddle-symmetry-shuffle",
+          "source_url": "https://www.coachquant.com/goldman-sachs/straddle-symmetry-shuffle"
+        },
+        {
+          "title": "Sum Surpass Quest",
+          "slug": "sum-surpass-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/sum-surpass-quest"
+        },
+        {
+          "title": "Threshold Quest",
+          "slug": "threshold-quest",
+          "source_url": "https://www.coachquant.com/goldman-sachs/threshold-quest"
+        },
+        {
+          "title": "Toasty Odds",
+          "slug": "toasty-odds",
+          "source_url": "https://www.coachquant.com/goldman-sachs/toasty-odds"
+        },
+        {
+          "title": "Triple Cut Odds",
+          "slug": "triple-cut-odds",
+          "source_url": "https://www.coachquant.com/goldman-sachs/triple-cut-odds"
+        }
+      ]
+    },
+    {
+      "firm_name": "hudson-river-trading",
+      "firm_slug": "hudson-river-trading",
+      "question_count": 27,
+      "questions": [
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/biased-flip-picks"
+        },
+        {
+          "title": "Cluster Count Chaos",
+          "slug": "cluster-count-chaos",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/cluster-count-chaos"
+        },
+        {
+          "title": "Coin Conundrum",
+          "slug": "coin-conundrum",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/coin-conundrum"
+        },
+        {
+          "title": "Dice Deletion Drama",
+          "slug": "dice-deletion-drama",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dice-deletion-drama"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice vs Coinface",
+          "slug": "dice-vs-coinface",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dice-vs-coinface"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dicey-decisions"
+        },
+        {
+          "title": "Die Divergence Delight",
+          "slug": "die-divergence-delight",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/die-divergence-delight"
+        },
+        {
+          "title": "Fair Flip Trick",
+          "slug": "fair-flip-trick",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/fair-flip-trick"
+        },
+        {
+          "title": "Dice Parity Quest",
+          "slug": "dice-parity-quest",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dice-parity-quest"
+        },
+        {
+          "title": "Flip of Fate",
+          "slug": "flip-of-fate",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/flip-of-fate"
+        },
+        {
+          "title": "Hallway Toggle Tango",
+          "slug": "hallway-toggle-tango",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/hallway-toggle-tango"
+        },
+        {
+          "title": "Diagonal Dance",
+          "slug": "diagonal-dance",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/diagonal-dance"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/heads-prediction-puzzle"
+        },
+        {
+          "title": "Odd Chase Rolls",
+          "slug": "odd-chase-rolls",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/odd-chase-rolls"
+        },
+        {
+          "title": "Painted Cube Puzzle",
+          "slug": "painted-cube-puzzle",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/painted-cube-puzzle"
+        },
+        {
+          "title": "Quadrant Surprise",
+          "slug": "quadrant-surprise",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/quadrant-surprise"
+        },
+        {
+          "title": "Random Max Quest",
+          "slug": "random-max-quest",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/random-max-quest"
+        },
+        {
+          "title": "Chasing Aces",
+          "slug": "chasing-aces",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/chasing-aces"
+        },
+        {
+          "title": "Bowls of Destiny",
+          "slug": "bowls-of-destiny",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/bowls-of-destiny"
+        },
+        {
+          "title": "Red Cube Hunt",
+          "slug": "red-cube-hunt",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/red-cube-hunt"
+        },
+        {
+          "title": "Threshold Quest",
+          "slug": "threshold-quest",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/threshold-quest"
+        },
+        {
+          "title": "Toasty Odds",
+          "slug": "toasty-odds",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/toasty-odds"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/coin-clash"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/dice-face-quest"
+        },
+        {
+          "title": "Triple Entanglement",
+          "slug": "triple-entanglement",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/triple-entanglement"
+        },
+        {
+          "title": "Visible Headcount Wonders",
+          "slug": "visible-headcount-wonders",
+          "source_url": "https://www.coachquant.com/hudson-river-trading/visible-headcount-wonders"
+        }
+      ]
+    },
+    {
+      "firm_name": "imc",
+      "firm_slug": "imc",
+      "question_count": 31,
+      "questions": [
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/imc/aging-circle-spin"
+        },
+        {
+          "title": "Ball Color Parade",
+          "slug": "ball-color-parade",
+          "source_url": "https://www.coachquant.com/imc/ball-color-parade"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/imc/bean-weight-quest"
+        },
+        {
+          "title": "Betting Brilliance",
+          "slug": "betting-brilliance",
+          "source_url": "https://www.coachquant.com/imc/betting-brilliance"
+        },
+        {
+          "title": "Clockhand Reunion",
+          "slug": "clockhand-reunion",
+          "source_url": "https://www.coachquant.com/imc/clockhand-reunion"
+        },
+        {
+          "title": "Dice Order Quest",
+          "slug": "dice-order-quest",
+          "source_url": "https://www.coachquant.com/imc/dice-order-quest"
+        },
+        {
+          "title": "Doll Nesting Dilemma",
+          "slug": "doll-nesting-dilemma",
+          "source_url": "https://www.coachquant.com/imc/doll-nesting-dilemma"
+        },
+        {
+          "title": "Drunken Seat Chaos",
+          "slug": "drunken-seat-chaos",
+          "source_url": "https://www.coachquant.com/imc/drunken-seat-chaos"
+        },
+        {
+          "title": "Ferry Flux",
+          "slug": "ferry-flux",
+          "source_url": "https://www.coachquant.com/imc/ferry-flux"
+        },
+        {
+          "title": "Flipping Fate",
+          "slug": "flipping-fate",
+          "source_url": "https://www.coachquant.com/imc/flipping-fate"
+        },
+        {
+          "title": "Diophantine Dance",
+          "slug": "diophantine-dance",
+          "source_url": "https://www.coachquant.com/imc/diophantine-dance"
+        },
+        {
+          "title": "Goat Gambit",
+          "slug": "goat-gambit",
+          "source_url": "https://www.coachquant.com/imc/goat-gambit"
+        },
+        {
+          "title": "Color Clash Probability",
+          "slug": "color-clash-probability",
+          "source_url": "https://www.coachquant.com/imc/color-clash-probability"
+        },
+        {
+          "title": "Infant Gender Mystery",
+          "slug": "infant-gender-mystery",
+          "source_url": "https://www.coachquant.com/imc/infant-gender-mystery"
+        },
+        {
+          "title": "Infinite Coin Toss",
+          "slug": "infinite-coin-toss",
+          "source_url": "https://www.coachquant.com/imc/infinite-coin-toss"
+        },
+        {
+          "title": "Infinite Sons Paradox",
+          "slug": "infinite-sons-paradox",
+          "source_url": "https://www.coachquant.com/imc/infinite-sons-paradox"
+        },
+        {
+          "title": "Matrix Mismatch Magic",
+          "slug": "matrix-mismatch-magic",
+          "source_url": "https://www.coachquant.com/imc/matrix-mismatch-magic"
+        },
+        {
+          "title": "Change Conundrum",
+          "slug": "change-conundrum",
+          "source_url": "https://www.coachquant.com/imc/change-conundrum"
+        },
+        {
+          "title": "Median Quest",
+          "slug": "median-quest",
+          "source_url": "https://www.coachquant.com/imc/median-quest"
+        },
+        {
+          "title": "Odd First Charm",
+          "slug": "odd-first-charm",
+          "source_url": "https://www.coachquant.com/imc/odd-first-charm"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/imc/dice-face-quest"
+        },
+        {
+          "title": "Odd Roll Odyssey",
+          "slug": "odd-roll-odyssey",
+          "source_url": "https://www.coachquant.com/imc/odd-roll-odyssey"
+        },
+        {
+          "title": "Platform Plunge",
+          "slug": "platform-plunge",
+          "source_url": "https://www.coachquant.com/imc/platform-plunge"
+        },
+        {
+          "title": "Probability Twists",
+          "slug": "probability-twists",
+          "source_url": "https://www.coachquant.com/imc/probability-twists"
+        },
+        {
+          "title": "Ramen Loops Counting",
+          "slug": "ramen-loops-counting",
+          "source_url": "https://www.coachquant.com/imc/ramen-loops-counting"
+        },
+        {
+          "title": "Triple Ring Toss",
+          "slug": "triple-ring-toss",
+          "source_url": "https://www.coachquant.com/imc/triple-ring-toss"
+        },
+        {
+          "title": "Chasing Aces",
+          "slug": "chasing-aces",
+          "source_url": "https://www.coachquant.com/imc/chasing-aces"
+        },
+        {
+          "title": "Triple Tails Quest",
+          "slug": "triple-tails-quest",
+          "source_url": "https://www.coachquant.com/imc/triple-tails-quest"
+        },
+        {
+          "title": "Uniform Uncertainty",
+          "slug": "uniform-uncertainty",
+          "source_url": "https://www.coachquant.com/imc/uniform-uncertainty"
+        },
+        {
+          "title": "Urn Origin Mystery",
+          "slug": "urn-origin-mystery",
+          "source_url": "https://www.coachquant.com/imc/urn-origin-mystery"
+        },
+        {
+          "title": "Weighty Choice",
+          "slug": "weighty-choice",
+          "source_url": "https://www.coachquant.com/imc/weighty-choice"
+        }
+      ]
+    },
+    {
+      "firm_name": "jane-street",
+      "firm_slug": "jane-street",
+      "question_count": 99,
+      "questions": [
+        {
+          "title": "Accident Odds Shrink",
+          "slug": "accident-odds-shrink",
+          "source_url": "https://www.coachquant.com/jane-street/accident-odds-shrink"
+        },
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/jane-street/aging-circle-spin"
+        },
+        {
+          "title": "Bacterial Roulette",
+          "slug": "bacterial-roulette",
+          "source_url": "https://www.coachquant.com/jane-street/bacterial-roulette"
+        },
+        {
+          "title": "Bearly Catching Five",
+          "slug": "bearly-catching-five",
+          "source_url": "https://www.coachquant.com/jane-street/bearly-catching-five"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/jane-street/biased-flip-picks"
+        },
+        {
+          "title": "Binary Fifteen Quest",
+          "slug": "binary-fifteen-quest",
+          "source_url": "https://www.coachquant.com/jane-street/binary-fifteen-quest"
+        },
+        {
+          "title": "Birthday Bonanza",
+          "slug": "birthday-bonanza",
+          "source_url": "https://www.coachquant.com/jane-street/birthday-bonanza"
+        },
+        {
+          "title": "Bullet Logic Roulette",
+          "slug": "bullet-logic-roulette",
+          "source_url": "https://www.coachquant.com/jane-street/bullet-logic-roulette"
+        },
+        {
+          "title": "Card Flip Gambit",
+          "slug": "card-flip-gambit",
+          "source_url": "https://www.coachquant.com/jane-street/card-flip-gambit"
+        },
+        {
+          "title": "Card Gamble Value",
+          "slug": "card-gamble-value",
+          "source_url": "https://www.coachquant.com/jane-street/card-gamble-value"
+        },
+        {
+          "title": "Chamber Challenge",
+          "slug": "chamber-challenge",
+          "source_url": "https://www.coachquant.com/jane-street/chamber-challenge"
+        },
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/jane-street/clockface-clash"
+        },
+        {
+          "title": "Clockhand Reunion",
+          "slug": "clockhand-reunion",
+          "source_url": "https://www.coachquant.com/jane-street/clockhand-reunion"
+        },
+        {
+          "title": "Coin Flip Paradox",
+          "slug": "coin-flip-paradox",
+          "source_url": "https://www.coachquant.com/jane-street/coin-flip-paradox"
+        },
+        {
+          "title": "Coin Flip Quartet",
+          "slug": "coin-flip-quartet",
+          "source_url": "https://www.coachquant.com/jane-street/coin-flip-quartet"
+        },
+        {
+          "title": "Concert Mystery Math",
+          "slug": "concert-mystery-math",
+          "source_url": "https://www.coachquant.com/jane-street/concert-mystery-math"
+        },
+        {
+          "title": "Corner Cube Conundrum",
+          "slug": "corner-cube-conundrum",
+          "source_url": "https://www.coachquant.com/jane-street/corner-cube-conundrum"
+        },
+        {
+          "title": "Counting Ones Challenge",
+          "slug": "counting-ones-challenge",
+          "source_url": "https://www.coachquant.com/jane-street/counting-ones-challenge"
+        },
+        {
+          "title": "Crash Watch Probability",
+          "slug": "crash-watch-probability",
+          "source_url": "https://www.coachquant.com/jane-street/crash-watch-probability"
+        },
+        {
+          "title": "Crimson Roll",
+          "slug": "crimson-roll",
+          "source_url": "https://www.coachquant.com/jane-street/crimson-roll"
+        },
+        {
+          "title": "Cubed Color Chance",
+          "slug": "cubed-color-chance",
+          "source_url": "https://www.coachquant.com/jane-street/cubed-color-chance"
+        },
+        {
+          "title": "Dice Ascendancy Exploration",
+          "slug": "dice-ascendancy-exploration",
+          "source_url": "https://www.coachquant.com/jane-street/dice-ascendancy-exploration"
+        },
+        {
+          "title": "Dice Completion Quest",
+          "slug": "dice-completion-quest",
+          "source_url": "https://www.coachquant.com/jane-street/dice-completion-quest"
+        },
+        {
+          "title": "Dice Delta Dance",
+          "slug": "dice-delta-dance",
+          "source_url": "https://www.coachquant.com/jane-street/dice-delta-dance"
+        },
+        {
+          "title": "Dice Dilemma 2",
+          "slug": "dice-dilemma-2",
+          "source_url": "https://www.coachquant.com/jane-street/dice-dilemma-2"
+        },
+        {
+          "title": "Dice Dilemma Dee",
+          "slug": "dice-dilemma-dee",
+          "source_url": "https://www.coachquant.com/jane-street/dice-dilemma-dee"
+        },
+        {
+          "title": "Dice Duel Dilemma",
+          "slug": "dice-duel-dilemma",
+          "source_url": "https://www.coachquant.com/jane-street/dice-duel-dilemma"
+        },
+        {
+          "title": "Dice Duel Dollars",
+          "slug": "dice-duel-dollars",
+          "source_url": "https://www.coachquant.com/jane-street/dice-duel-dollars"
+        },
+        {
+          "title": "Dice Duel Dynamics",
+          "slug": "dice-duel-dynamics",
+          "source_url": "https://www.coachquant.com/jane-street/dice-duel-dynamics"
+        },
+        {
+          "title": "Dice Fusion Fun",
+          "slug": "dice-fusion-fun",
+          "source_url": "https://www.coachquant.com/jane-street/dice-fusion-fun"
+        },
+        {
+          "title": "Dice Logic Dance",
+          "slug": "dice-logic-dance",
+          "source_url": "https://www.coachquant.com/jane-street/dice-logic-dance"
+        },
+        {
+          "title": "Dice Redux Quandary",
+          "slug": "dice-redux-quandary",
+          "source_url": "https://www.coachquant.com/jane-street/dice-redux-quandary"
+        },
+        {
+          "title": "Dice Triad Triumph",
+          "slug": "dice-triad-triumph",
+          "source_url": "https://www.coachquant.com/jane-street/dice-triad-triumph"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/jane-street/dicey-decisions"
+        },
+        {
+          "title": "Dicey Dilemma",
+          "slug": "dicey-dilemma",
+          "source_url": "https://www.coachquant.com/jane-street/dicey-dilemma"
+        },
+        {
+          "title": "Digit Jigsaw Quest",
+          "slug": "digit-jigsaw-quest",
+          "source_url": "https://www.coachquant.com/jane-street/digit-jigsaw-quest"
+        },
+        {
+          "title": "Digit Multiplier Quest",
+          "slug": "digit-multiplier-quest",
+          "source_url": "https://www.coachquant.com/jane-street/digit-multiplier-quest"
+        },
+        {
+          "title": "Digits Dance",
+          "slug": "digits-dance",
+          "source_url": "https://www.coachquant.com/jane-street/digits-dance"
+        },
+        {
+          "title": "Double Month Puzzle",
+          "slug": "double-month-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/double-month-puzzle"
+        },
+        {
+          "title": "Duel Mowers Dash",
+          "slug": "duel-mowers-dash",
+          "source_url": "https://www.coachquant.com/jane-street/duel-mowers-dash"
+        },
+        {
+          "title": "Ending with Four",
+          "slug": "ending-with-four",
+          "source_url": "https://www.coachquant.com/jane-street/ending-with-four"
+        },
+        {
+          "title": "Even Odd Duel",
+          "slug": "even-odd-duel",
+          "source_url": "https://www.coachquant.com/jane-street/even-odd-duel"
+        },
+        {
+          "title": "Ferry Flux",
+          "slug": "ferry-flux",
+          "source_url": "https://www.coachquant.com/jane-street/ferry-flux"
+        },
+        {
+          "title": "Flip Oddness Quest",
+          "slug": "flip-oddness-quest",
+          "source_url": "https://www.coachquant.com/jane-street/flip-oddness-quest"
+        },
+        {
+          "title": "Flip Symmetry",
+          "slug": "flip-symmetry",
+          "source_url": "https://www.coachquant.com/jane-street/flip-symmetry"
+        },
+        {
+          "title": "Hallway Toggle Tango",
+          "slug": "hallway-toggle-tango",
+          "source_url": "https://www.coachquant.com/jane-street/hallway-toggle-tango"
+        },
+        {
+          "title": "Diophantine Dance",
+          "slug": "diophantine-dance",
+          "source_url": "https://www.coachquant.com/jane-street/diophantine-dance"
+        },
+        {
+          "title": "Age Circle Riddle",
+          "slug": "age-circle-riddle",
+          "source_url": "https://www.coachquant.com/jane-street/age-circle-riddle"
+        },
+        {
+          "title": "Handshake Enigma",
+          "slug": "handshake-enigma",
+          "source_url": "https://www.coachquant.com/jane-street/handshake-enigma"
+        },
+        {
+          "title": "Heads Marathon",
+          "slug": "heads-marathon",
+          "source_url": "https://www.coachquant.com/jane-street/heads-marathon"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/heads-prediction-puzzle"
+        },
+        {
+          "title": "Hidden Color Paradox",
+          "slug": "hidden-color-paradox",
+          "source_url": "https://www.coachquant.com/jane-street/hidden-color-paradox"
+        },
+        {
+          "title": "Lantern Bridge Dash",
+          "slug": "lantern-bridge-dash",
+          "source_url": "https://www.coachquant.com/jane-street/lantern-bridge-dash"
+        },
+        {
+          "title": "Light Isolation Puzzle",
+          "slug": "light-isolation-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/light-isolation-puzzle"
+        },
+        {
+          "title": "Line Division Puzzle",
+          "slug": "line-division-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/line-division-puzzle"
+        },
+        {
+          "title": "Lucky Door Rollers",
+          "slug": "lucky-door-rollers",
+          "source_url": "https://www.coachquant.com/jane-street/lucky-door-rollers"
+        },
+        {
+          "title": "Blue Cube Mystery",
+          "slug": "blue-cube-mystery",
+          "source_url": "https://www.coachquant.com/jane-street/blue-cube-mystery"
+        },
+        {
+          "title": "Coprime Collection Quest",
+          "slug": "coprime-collection-quest",
+          "source_url": "https://www.coachquant.com/jane-street/coprime-collection-quest"
+        },
+        {
+          "title": "Lucky Streak Gamble",
+          "slug": "lucky-streak-gamble",
+          "source_url": "https://www.coachquant.com/jane-street/lucky-streak-gamble"
+        },
+        {
+          "title": "Marble Mirage",
+          "slug": "marble-mirage",
+          "source_url": "https://www.coachquant.com/jane-street/marble-mirage"
+        },
+        {
+          "title": "Card Flip Maximizer",
+          "slug": "card-flip-maximizer",
+          "source_url": "https://www.coachquant.com/jane-street/card-flip-maximizer"
+        },
+        {
+          "title": "Melon Weight Mystery",
+          "slug": "melon-weight-mystery",
+          "source_url": "https://www.coachquant.com/jane-street/melon-weight-mystery"
+        },
+        {
+          "title": "Odd Coin Flips",
+          "slug": "odd-coin-flips",
+          "source_url": "https://www.coachquant.com/jane-street/odd-coin-flips"
+        },
+        {
+          "title": "Optimal Game Gains",
+          "slug": "optimal-game-gains",
+          "source_url": "https://www.coachquant.com/jane-street/optimal-game-gains"
+        },
+        {
+          "title": "Orb Forecast Challenge",
+          "slug": "orb-forecast-challenge",
+          "source_url": "https://www.coachquant.com/jane-street/orb-forecast-challenge"
+        },
+        {
+          "title": "Orbital Reunion",
+          "slug": "orbital-reunion",
+          "source_url": "https://www.coachquant.com/jane-street/orbital-reunion"
+        },
+        {
+          "title": "Parity Coin Flip Enigma",
+          "slug": "parity-coin-flip-enigma",
+          "source_url": "https://www.coachquant.com/jane-street/parity-coin-flip-enigma"
+        },
+        {
+          "title": "Parity Probabilities",
+          "slug": "parity-probabilities",
+          "source_url": "https://www.coachquant.com/jane-street/parity-probabilities"
+        },
+        {
+          "title": "Passenger Puzzle Roll",
+          "slug": "passenger-puzzle-roll",
+          "source_url": "https://www.coachquant.com/jane-street/passenger-puzzle-roll"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/jane-street/coin-clash"
+        },
+        {
+          "title": "Penny Payout Puzzle",
+          "slug": "penny-payout-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/penny-payout-puzzle"
+        },
+        {
+          "title": "Poison Puzzle",
+          "slug": "poison-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/poison-puzzle"
+        },
+        {
+          "title": "Power Surprise",
+          "slug": "power-surprise",
+          "source_url": "https://www.coachquant.com/jane-street/power-surprise"
+        },
+        {
+          "title": "Prime Dice Quest",
+          "slug": "prime-dice-quest",
+          "source_url": "https://www.coachquant.com/jane-street/prime-dice-quest"
+        },
+        {
+          "title": "Coprime Culmination",
+          "slug": "coprime-culmination",
+          "source_url": "https://www.coachquant.com/jane-street/coprime-culmination"
+        },
+        {
+          "title": "Prime Pair Puzzle",
+          "slug": "prime-pair-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/prime-pair-puzzle"
+        },
+        {
+          "title": "Prime Quartet Quandary",
+          "slug": "prime-quartet-quandary",
+          "source_url": "https://www.coachquant.com/jane-street/prime-quartet-quandary"
+        },
+        {
+          "title": "Quarter Time Twist",
+          "slug": "quarter-time-twist",
+          "source_url": "https://www.coachquant.com/jane-street/quarter-time-twist"
+        },
+        {
+          "title": "River Rush Riddle",
+          "slug": "river-rush-riddle",
+          "source_url": "https://www.coachquant.com/jane-street/river-rush-riddle"
+        },
+        {
+          "title": "Roadside Roulette",
+          "slug": "roadside-roulette",
+          "source_url": "https://www.coachquant.com/jane-street/roadside-roulette"
+        },
+        {
+          "title": "Cycle Chronicles",
+          "slug": "cycle-chronicles",
+          "source_url": "https://www.coachquant.com/jane-street/cycle-chronicles"
+        },
+        {
+          "title": "Bus Roulette Wait",
+          "slug": "bus-roulette-wait",
+          "source_url": "https://www.coachquant.com/jane-street/bus-roulette-wait"
+        },
+        {
+          "title": "Scissor Showdown",
+          "slug": "scissor-showdown",
+          "source_url": "https://www.coachquant.com/jane-street/scissor-showdown"
+        },
+        {
+          "title": "Shot Swapery",
+          "slug": "shot-swapery",
+          "source_url": "https://www.coachquant.com/jane-street/shot-swapery"
+        },
+        {
+          "title": "Sock Grab Dilemma",
+          "slug": "sock-grab-dilemma",
+          "source_url": "https://www.coachquant.com/jane-street/sock-grab-dilemma"
+        },
+        {
+          "title": "Dice Difference Dream",
+          "slug": "dice-difference-dream",
+          "source_url": "https://www.coachquant.com/jane-street/dice-difference-dream"
+        },
+        {
+          "title": "Speedy Trio Quest",
+          "slug": "speedy-trio-quest",
+          "source_url": "https://www.coachquant.com/jane-street/speedy-trio-quest"
+        },
+        {
+          "title": "Stamp Sum Limit",
+          "slug": "stamp-sum-limit",
+          "source_url": "https://www.coachquant.com/jane-street/stamp-sum-limit"
+        },
+        {
+          "title": "Survival Spin Gambit",
+          "slug": "survival-spin-gambit",
+          "source_url": "https://www.coachquant.com/jane-street/survival-spin-gambit"
+        },
+        {
+          "title": "Tennis Triumph Strategy",
+          "slug": "tennis-triumph-strategy",
+          "source_url": "https://www.coachquant.com/jane-street/tennis-triumph-strategy"
+        },
+        {
+          "title": "Token Tango",
+          "slug": "token-tango",
+          "source_url": "https://www.coachquant.com/jane-street/token-tango"
+        },
+        {
+          "title": "Triple Fastest Race",
+          "slug": "triple-fastest-race",
+          "source_url": "https://www.coachquant.com/jane-street/triple-fastest-race"
+        },
+        {
+          "title": "Triple Ten Toss",
+          "slug": "triple-ten-toss",
+          "source_url": "https://www.coachquant.com/jane-street/triple-ten-toss"
+        },
+        {
+          "title": "Triple Toss Trail",
+          "slug": "triple-toss-trail",
+          "source_url": "https://www.coachquant.com/jane-street/triple-toss-trail"
+        },
+        {
+          "title": "Unique Dates Quest",
+          "slug": "unique-dates-quest",
+          "source_url": "https://www.coachquant.com/jane-street/unique-dates-quest"
+        },
+        {
+          "title": "Unstable Timing Challenge",
+          "slug": "unstable-timing-challenge",
+          "source_url": "https://www.coachquant.com/jane-street/unstable-timing-challenge"
+        },
+        {
+          "title": "Variance Twist",
+          "slug": "variance-twist",
+          "source_url": "https://www.coachquant.com/jane-street/variance-twist"
+        },
+        {
+          "title": "Viral Gala",
+          "slug": "viral-gala",
+          "source_url": "https://www.coachquant.com/jane-street/viral-gala"
+        },
+        {
+          "title": "Windy Pedal Puzzle",
+          "slug": "windy-pedal-puzzle",
+          "source_url": "https://www.coachquant.com/jane-street/windy-pedal-puzzle"
+        }
+      ]
+    },
+    {
+      "firm_name": "old-mission",
+      "firm_slug": "old-mission",
+      "question_count": 28,
+      "questions": [
+        {
+          "title": "Betting Brilliance",
+          "slug": "betting-brilliance",
+          "source_url": "https://www.coachquant.com/old-mission/betting-brilliance"
+        },
+        {
+          "title": "Big Mac Math",
+          "slug": "big-mac-math",
+          "source_url": "https://www.coachquant.com/old-mission/big-mac-math"
+        },
+        {
+          "title": "Circle Twirl Calculations",
+          "slug": "circle-twirl-calculations",
+          "source_url": "https://www.coachquant.com/old-mission/circle-twirl-calculations"
+        },
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/old-mission/clockface-clash"
+        },
+        {
+          "title": "Colorful Choices",
+          "slug": "colorful-choices",
+          "source_url": "https://www.coachquant.com/old-mission/colorful-choices"
+        },
+        {
+          "title": "Dice Gamble Spread",
+          "slug": "dice-gamble-spread",
+          "source_url": "https://www.coachquant.com/old-mission/dice-gamble-spread"
+        },
+        {
+          "title": "Flip Gamble Gain",
+          "slug": "flip-gamble-gain",
+          "source_url": "https://www.coachquant.com/old-mission/flip-gamble-gain"
+        },
+        {
+          "title": "Heads Wins",
+          "slug": "heads-wins",
+          "source_url": "https://www.coachquant.com/old-mission/heads-wins"
+        },
+        {
+          "title": "Jar Harmony Probability",
+          "slug": "jar-harmony-probability",
+          "source_url": "https://www.coachquant.com/old-mission/jar-harmony-probability"
+        },
+        {
+          "title": "Lucky Card Draw",
+          "slug": "lucky-card-draw",
+          "source_url": "https://www.coachquant.com/old-mission/lucky-card-draw"
+        },
+        {
+          "title": "Lucky Flip Puzzle",
+          "slug": "lucky-flip-puzzle",
+          "source_url": "https://www.coachquant.com/old-mission/lucky-flip-puzzle"
+        },
+        {
+          "title": "Color Match Munch",
+          "slug": "color-match-munch",
+          "source_url": "https://www.coachquant.com/old-mission/color-match-munch"
+        },
+        {
+          "title": "Lucky Six Hunt",
+          "slug": "lucky-six-hunt",
+          "source_url": "https://www.coachquant.com/old-mission/lucky-six-hunt"
+        },
+        {
+          "title": "Major Mystery",
+          "slug": "major-mystery",
+          "source_url": "https://www.coachquant.com/old-mission/major-mystery"
+        },
+        {
+          "title": "Marble Mirage",
+          "slug": "marble-mirage",
+          "source_url": "https://www.coachquant.com/old-mission/marble-mirage"
+        },
+        {
+          "title": "Oil Gamble Option",
+          "slug": "oil-gamble-option",
+          "source_url": "https://www.coachquant.com/old-mission/oil-gamble-option"
+        },
+        {
+          "title": "Palindrome Puzzle",
+          "slug": "palindrome-puzzle",
+          "source_url": "https://www.coachquant.com/old-mission/palindrome-puzzle"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/old-mission/dice-face-quest"
+        },
+        {
+          "title": "Quarter Time Twist",
+          "slug": "quarter-time-twist",
+          "source_url": "https://www.coachquant.com/old-mission/quarter-time-twist"
+        },
+        {
+          "title": "Rolling to Twenty",
+          "slug": "rolling-to-twenty",
+          "source_url": "https://www.coachquant.com/old-mission/rolling-to-twenty"
+        },
+        {
+          "title": "Slice Speed Mystery",
+          "slug": "slice-speed-mystery",
+          "source_url": "https://www.coachquant.com/old-mission/slice-speed-mystery"
+        },
+        {
+          "title": "Dice Option Puzzle",
+          "slug": "dice-option-puzzle",
+          "source_url": "https://www.coachquant.com/old-mission/dice-option-puzzle"
+        },
+        {
+          "title": "Sock Draw Dilemma",
+          "slug": "sock-draw-dilemma",
+          "source_url": "https://www.coachquant.com/old-mission/sock-draw-dilemma"
+        },
+        {
+          "title": "Splash Ranking Showdown",
+          "slug": "splash-ranking-showdown",
+          "source_url": "https://www.coachquant.com/old-mission/splash-ranking-showdown"
+        },
+        {
+          "title": "Streak Flip Fun",
+          "slug": "streak-flip-fun",
+          "source_url": "https://www.coachquant.com/old-mission/streak-flip-fun"
+        },
+        {
+          "title": "Triple Toss Trail",
+          "slug": "triple-toss-trail",
+          "source_url": "https://www.coachquant.com/old-mission/triple-toss-trail"
+        },
+        {
+          "title": "Critter Parade",
+          "slug": "critter-parade",
+          "source_url": "https://www.coachquant.com/old-mission/critter-parade"
+        },
+        {
+          "title": "Twin Spades Quest",
+          "slug": "twin-spades-quest",
+          "source_url": "https://www.coachquant.com/old-mission/twin-spades-quest"
+        }
+      ]
+    },
+    {
+      "firm_name": "optiver",
+      "firm_slug": "optiver",
+      "question_count": 87,
+      "questions": [
+        {
+          "title": "Above Seven Hills",
+          "slug": "above-seven-hills",
+          "source_url": "https://www.coachquant.com/optiver/above-seven-hills"
+        },
+        {
+          "title": "Accident Odds Shrink",
+          "slug": "accident-odds-shrink",
+          "source_url": "https://www.coachquant.com/optiver/accident-odds-shrink"
+        },
+        {
+          "title": "Ace Probability Playoff",
+          "slug": "ace-probability-playoff",
+          "source_url": "https://www.coachquant.com/optiver/ace-probability-playoff"
+        },
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/optiver/aging-circle-spin"
+        },
+        {
+          "title": "Area Gamble",
+          "slug": "area-gamble",
+          "source_url": "https://www.coachquant.com/optiver/area-gamble"
+        },
+        {
+          "title": "Basketball Decider",
+          "slug": "basketball-decider",
+          "source_url": "https://www.coachquant.com/optiver/basketball-decider"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/optiver/bean-weight-quest"
+        },
+        {
+          "title": "Bill Breaker Challenge",
+          "slug": "bill-breaker-challenge",
+          "source_url": "https://www.coachquant.com/optiver/bill-breaker-challenge"
+        },
+        {
+          "title": "Binary Sibling Puzzle",
+          "slug": "binary-sibling-puzzle",
+          "source_url": "https://www.coachquant.com/optiver/binary-sibling-puzzle"
+        },
+        {
+          "title": "Canoe Clock Conundrum",
+          "slug": "canoe-clock-conundrum",
+          "source_url": "https://www.coachquant.com/optiver/canoe-clock-conundrum"
+        },
+        {
+          "title": "Cash Grab Conundrum",
+          "slug": "cash-grab-conundrum",
+          "source_url": "https://www.coachquant.com/optiver/cash-grab-conundrum"
+        },
+        {
+          "title": "Circular Puzzle Quandary",
+          "slug": "circular-puzzle-quandary",
+          "source_url": "https://www.coachquant.com/optiver/circular-puzzle-quandary"
+        },
+        {
+          "title": "Clockface Clash",
+          "slug": "clockface-clash",
+          "source_url": "https://www.coachquant.com/optiver/clockface-clash"
+        },
+        {
+          "title": "Coin Flip Dynamics",
+          "slug": "coin-flip-dynamics",
+          "source_url": "https://www.coachquant.com/optiver/coin-flip-dynamics"
+        },
+        {
+          "title": "Coin Flip Synchronicity",
+          "slug": "coin-flip-synchronicity",
+          "source_url": "https://www.coachquant.com/optiver/coin-flip-synchronicity"
+        },
+        {
+          "title": "Coin Stratagem",
+          "slug": "coin-stratagem",
+          "source_url": "https://www.coachquant.com/optiver/coin-stratagem"
+        },
+        {
+          "title": "Cone Zone Chance",
+          "slug": "cone-zone-chance",
+          "source_url": "https://www.coachquant.com/optiver/cone-zone-chance"
+        },
+        {
+          "title": "Conflicted Companions",
+          "slug": "conflicted-companions",
+          "source_url": "https://www.coachquant.com/optiver/conflicted-companions"
+        },
+        {
+          "title": "Crash Watch Probability",
+          "slug": "crash-watch-probability",
+          "source_url": "https://www.coachquant.com/optiver/crash-watch-probability"
+        },
+        {
+          "title": "Dice Bet Dilemma",
+          "slug": "dice-bet-dilemma",
+          "source_url": "https://www.coachquant.com/optiver/dice-bet-dilemma"
+        },
+        {
+          "title": "Dice Climb Challenge",
+          "slug": "dice-climb-challenge",
+          "source_url": "https://www.coachquant.com/optiver/dice-climb-challenge"
+        },
+        {
+          "title": "Dice Deja Vu",
+          "slug": "dice-deja-vu",
+          "source_url": "https://www.coachquant.com/optiver/dice-deja-vu"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/optiver/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Delight Value",
+          "slug": "dice-delight-value",
+          "source_url": "https://www.coachquant.com/optiver/dice-delight-value"
+        },
+        {
+          "title": "Dice Dilemma Decision",
+          "slug": "dice-dilemma-decision",
+          "source_url": "https://www.coachquant.com/optiver/dice-dilemma-decision"
+        },
+        {
+          "title": "Dice Dissonance Sum",
+          "slug": "dice-dissonance-sum",
+          "source_url": "https://www.coachquant.com/optiver/dice-dissonance-sum"
+        },
+        {
+          "title": "Dice Dollar Dilemma",
+          "slug": "dice-dollar-dilemma",
+          "source_url": "https://www.coachquant.com/optiver/dice-dollar-dilemma"
+        },
+        {
+          "title": "Dice Duality",
+          "slug": "dice-duality",
+          "source_url": "https://www.coachquant.com/optiver/dice-duality"
+        },
+        {
+          "title": "Dice Duel Balance",
+          "slug": "dice-duel-balance",
+          "source_url": "https://www.coachquant.com/optiver/dice-duel-balance"
+        },
+        {
+          "title": "Dice Duel",
+          "slug": "dice-duel",
+          "source_url": "https://www.coachquant.com/optiver/dice-duel"
+        },
+        {
+          "title": "Dice Gamble Spread",
+          "slug": "dice-gamble-spread",
+          "source_url": "https://www.coachquant.com/optiver/dice-gamble-spread"
+        },
+        {
+          "title": "Chance Boosting",
+          "slug": "chance-boosting",
+          "source_url": "https://www.coachquant.com/optiver/chance-boosting"
+        },
+        {
+          "title": "Dice Strategy Quest",
+          "slug": "dice-strategy-quest",
+          "source_url": "https://www.coachquant.com/optiver/dice-strategy-quest"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/optiver/dicey-decisions"
+        },
+        {
+          "title": "Dicey Multiples",
+          "slug": "dicey-multiples",
+          "source_url": "https://www.coachquant.com/optiver/dicey-multiples"
+        },
+        {
+          "title": "Die Dilemma",
+          "slug": "die-dilemma",
+          "source_url": "https://www.coachquant.com/optiver/die-dilemma"
+        },
+        {
+          "title": "Double Heads Quest",
+          "slug": "double-heads-quest",
+          "source_url": "https://www.coachquant.com/optiver/double-heads-quest"
+        },
+        {
+          "title": "Double Trouble Dice",
+          "slug": "double-trouble-dice",
+          "source_url": "https://www.coachquant.com/optiver/double-trouble-dice"
+        },
+        {
+          "title": "Egg Drop Challenge",
+          "slug": "egg-drop-challenge",
+          "source_url": "https://www.coachquant.com/optiver/egg-drop-challenge"
+        },
+        {
+          "title": "Equal Flip Alchemy",
+          "slug": "equal-flip-alchemy",
+          "source_url": "https://www.coachquant.com/optiver/equal-flip-alchemy"
+        },
+        {
+          "title": "Equitable Odds Challenge",
+          "slug": "equitable-odds-challenge",
+          "source_url": "https://www.coachquant.com/optiver/equitable-odds-challenge"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/optiver/dice-face-quest"
+        },
+        {
+          "title": "Even Quest Rolls",
+          "slug": "even-quest-rolls",
+          "source_url": "https://www.coachquant.com/optiver/even-quest-rolls"
+        },
+        {
+          "title": "Exponent Showdown",
+          "slug": "exponent-showdown",
+          "source_url": "https://www.coachquant.com/optiver/exponent-showdown"
+        },
+        {
+          "title": "Final Flicker Forecast",
+          "slug": "final-flicker-forecast",
+          "source_url": "https://www.coachquant.com/optiver/final-flicker-forecast"
+        },
+        {
+          "title": "Fraction Fibbing",
+          "slug": "fraction-fibbing",
+          "source_url": "https://www.coachquant.com/optiver/fraction-fibbing"
+        },
+        {
+          "title": "Fraction Riddle Chain",
+          "slug": "fraction-riddle-chain",
+          "source_url": "https://www.coachquant.com/optiver/fraction-riddle-chain"
+        },
+        {
+          "title": "Dice Battle Royale",
+          "slug": "dice-battle-royale",
+          "source_url": "https://www.coachquant.com/optiver/dice-battle-royale"
+        },
+        {
+          "title": "Heads Every Time",
+          "slug": "heads-every-time",
+          "source_url": "https://www.coachquant.com/optiver/heads-every-time"
+        },
+        {
+          "title": "Heads Wins",
+          "slug": "heads-wins",
+          "source_url": "https://www.coachquant.com/optiver/heads-wins"
+        },
+        {
+          "title": "Card Select Strategy",
+          "slug": "card-select-strategy",
+          "source_url": "https://www.coachquant.com/optiver/card-select-strategy"
+        },
+        {
+          "title": "Heart Value Quest",
+          "slug": "heart-value-quest",
+          "source_url": "https://www.coachquant.com/optiver/heart-value-quest"
+        },
+        {
+          "title": "Jug Puzzle Quest",
+          "slug": "jug-puzzle-quest",
+          "source_url": "https://www.coachquant.com/optiver/jug-puzzle-quest"
+        },
+        {
+          "title": "Card Chaos",
+          "slug": "card-chaos",
+          "source_url": "https://www.coachquant.com/optiver/card-chaos"
+        },
+        {
+          "title": "Last Roll Roulette",
+          "slug": "last-roll-roulette",
+          "source_url": "https://www.coachquant.com/optiver/last-roll-roulette"
+        },
+        {
+          "title": "Liquid Swap Mystery",
+          "slug": "liquid-swap-mystery",
+          "source_url": "https://www.coachquant.com/optiver/liquid-swap-mystery"
+        },
+        {
+          "title": "Lucky Card Draw",
+          "slug": "lucky-card-draw",
+          "source_url": "https://www.coachquant.com/optiver/lucky-card-draw"
+        },
+        {
+          "title": "Lunar Launch",
+          "slug": "lunar-launch",
+          "source_url": "https://www.coachquant.com/optiver/lunar-launch"
+        },
+        {
+          "title": "Million Hunt Challenge",
+          "slug": "million-hunt-challenge",
+          "source_url": "https://www.coachquant.com/optiver/million-hunt-challenge"
+        },
+        {
+          "title": "Colorful Circle Conundrum",
+          "slug": "colorful-circle-conundrum",
+          "source_url": "https://www.coachquant.com/optiver/colorful-circle-conundrum"
+        },
+        {
+          "title": "Noodle Knot Loop",
+          "slug": "noodle-knot-loop",
+          "source_url": "https://www.coachquant.com/optiver/noodle-knot-loop"
+        },
+        {
+          "title": "Dice Delight",
+          "slug": "dice-delight",
+          "source_url": "https://www.coachquant.com/optiver/dice-delight"
+        },
+        {
+          "title": "Odd Faces Quest",
+          "slug": "odd-faces-quest",
+          "source_url": "https://www.coachquant.com/optiver/odd-faces-quest"
+        },
+        {
+          "title": "Option Dice Value",
+          "slug": "option-dice-value",
+          "source_url": "https://www.coachquant.com/optiver/option-dice-value"
+        },
+        {
+          "title": "Prime Roll Luck",
+          "slug": "prime-roll-luck",
+          "source_url": "https://www.coachquant.com/optiver/prime-roll-luck"
+        },
+        {
+          "title": "Dice Profit Anticipation",
+          "slug": "dice-profit-anticipation",
+          "source_url": "https://www.coachquant.com/optiver/dice-profit-anticipation"
+        },
+        {
+          "title": "Prime Rollout Probability",
+          "slug": "prime-rollout-probability",
+          "source_url": "https://www.coachquant.com/optiver/prime-rollout-probability"
+        },
+        {
+          "title": "Quarter Time Twist",
+          "slug": "quarter-time-twist",
+          "source_url": "https://www.coachquant.com/optiver/quarter-time-twist"
+        },
+        {
+          "title": "Random Radius Ripple",
+          "slug": "random-radius-ripple",
+          "source_url": "https://www.coachquant.com/optiver/random-radius-ripple"
+        },
+        {
+          "title": "Regression Sum Magic",
+          "slug": "regression-sum-magic",
+          "source_url": "https://www.coachquant.com/optiver/regression-sum-magic"
+        },
+        {
+          "title": "Risky Coin Wager",
+          "slug": "risky-coin-wager",
+          "source_url": "https://www.coachquant.com/optiver/risky-coin-wager"
+        },
+        {
+          "title": "Roll Dollar Deeds",
+          "slug": "roll-dollar-deeds",
+          "source_url": "https://www.coachquant.com/optiver/roll-dollar-deeds"
+        },
+        {
+          "title": "Coin Flip Balance",
+          "slug": "coin-flip-balance",
+          "source_url": "https://www.coachquant.com/optiver/coin-flip-balance"
+        },
+        {
+          "title": "Shuffled Unions",
+          "slug": "shuffled-unions",
+          "source_url": "https://www.coachquant.com/optiver/shuffled-unions"
+        },
+        {
+          "title": "Dice Option Puzzle",
+          "slug": "dice-option-puzzle",
+          "source_url": "https://www.coachquant.com/optiver/dice-option-puzzle"
+        },
+        {
+          "title": "Spin to Win",
+          "slug": "spin-to-win",
+          "source_url": "https://www.coachquant.com/optiver/spin-to-win"
+        },
+        {
+          "title": "Square Quest",
+          "slug": "square-quest",
+          "source_url": "https://www.coachquant.com/optiver/square-quest"
+        },
+        {
+          "title": "Stone Showdown Strategy",
+          "slug": "stone-showdown-strategy",
+          "source_url": "https://www.coachquant.com/optiver/stone-showdown-strategy"
+        },
+        {
+          "title": "Chasing Aces",
+          "slug": "chasing-aces",
+          "source_url": "https://www.coachquant.com/optiver/chasing-aces"
+        },
+        {
+          "title": "Tardy Pair Probability",
+          "slug": "tardy-pair-probability",
+          "source_url": "https://www.coachquant.com/optiver/tardy-pair-probability"
+        },
+        {
+          "title": "Dice Chase Duo",
+          "slug": "dice-chase-duo",
+          "source_url": "https://www.coachquant.com/optiver/dice-chase-duo"
+        },
+        {
+          "title": "Target Tower Takedown",
+          "slug": "target-tower-takedown",
+          "source_url": "https://www.coachquant.com/optiver/target-tower-takedown"
+        },
+        {
+          "title": "Tilted Coin Rivalry",
+          "slug": "tilted-coin-rivalry",
+          "source_url": "https://www.coachquant.com/optiver/tilted-coin-rivalry"
+        },
+        {
+          "title": "Token Duel Strategy",
+          "slug": "token-duel-strategy",
+          "source_url": "https://www.coachquant.com/optiver/token-duel-strategy"
+        },
+        {
+          "title": "Triple Heads Quest",
+          "slug": "triple-heads-quest",
+          "source_url": "https://www.coachquant.com/optiver/triple-heads-quest"
+        },
+        {
+          "title": "Walkway Luck",
+          "slug": "walkway-luck",
+          "source_url": "https://www.coachquant.com/optiver/walkway-luck"
+        },
+        {
+          "title": "Coin Dice Quest",
+          "slug": "coin-dice-quest",
+          "source_url": "https://www.coachquant.com/optiver/coin-dice-quest"
+        }
+      ]
+    },
+    {
+      "firm_name": "sig",
+      "firm_slug": "sig",
+      "question_count": 60,
+      "questions": [
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/sig/aging-circle-spin"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/sig/bean-weight-quest"
+        },
+        {
+          "title": "Betting Brilliance",
+          "slug": "betting-brilliance",
+          "source_url": "https://www.coachquant.com/sig/betting-brilliance"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/sig/biased-flip-picks"
+        },
+        {
+          "title": "Blue Overload Quest",
+          "slug": "blue-overload-quest",
+          "source_url": "https://www.coachquant.com/sig/blue-overload-quest"
+        },
+        {
+          "title": "Card Cascade Challenge",
+          "slug": "card-cascade-challenge",
+          "source_url": "https://www.coachquant.com/sig/card-cascade-challenge"
+        },
+        {
+          "title": "Chance Meeting",
+          "slug": "chance-meeting",
+          "source_url": "https://www.coachquant.com/sig/chance-meeting"
+        },
+        {
+          "title": "Coin Clash Chase",
+          "slug": "coin-clash-chase",
+          "source_url": "https://www.coachquant.com/sig/coin-clash-chase"
+        },
+        {
+          "title": "Coin Flip Paradox",
+          "slug": "coin-flip-paradox",
+          "source_url": "https://www.coachquant.com/sig/coin-flip-paradox"
+        },
+        {
+          "title": "Coin Flip Synchronicity",
+          "slug": "coin-flip-synchronicity",
+          "source_url": "https://www.coachquant.com/sig/coin-flip-synchronicity"
+        },
+        {
+          "title": "Correlation Triad Limits",
+          "slug": "correlation-triad-limits",
+          "source_url": "https://www.coachquant.com/sig/correlation-triad-limits"
+        },
+        {
+          "title": "Crimson Roll",
+          "slug": "crimson-roll",
+          "source_url": "https://www.coachquant.com/sig/crimson-roll"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/sig/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Duel Dominance",
+          "slug": "dice-duel-dominance",
+          "source_url": "https://www.coachquant.com/sig/dice-duel-dominance"
+        },
+        {
+          "title": "Dice Gamble Spread",
+          "slug": "dice-gamble-spread",
+          "source_url": "https://www.coachquant.com/sig/dice-gamble-spread"
+        },
+        {
+          "title": "Dice Median Quest",
+          "slug": "dice-median-quest",
+          "source_url": "https://www.coachquant.com/sig/dice-median-quest"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/sig/dicey-decisions"
+        },
+        {
+          "title": "Drill or Gamble",
+          "slug": "drill-or-gamble",
+          "source_url": "https://www.coachquant.com/sig/drill-or-gamble"
+        },
+        {
+          "title": "Dual Gamble Algebra",
+          "slug": "dual-gamble-algebra",
+          "source_url": "https://www.coachquant.com/sig/dual-gamble-algebra"
+        },
+        {
+          "title": "Duel Mowers Dash",
+          "slug": "duel-mowers-dash",
+          "source_url": "https://www.coachquant.com/sig/duel-mowers-dash"
+        },
+        {
+          "title": "Equitable Odds Challenge",
+          "slug": "equitable-odds-challenge",
+          "source_url": "https://www.coachquant.com/sig/equitable-odds-challenge"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/sig/coin-clash"
+        },
+        {
+          "title": "Factorial Zero Quest",
+          "slug": "factorial-zero-quest",
+          "source_url": "https://www.coachquant.com/sig/factorial-zero-quest"
+        },
+        {
+          "title": "Ferry Flux",
+          "slug": "ferry-flux",
+          "source_url": "https://www.coachquant.com/sig/ferry-flux"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/sig/dice-face-quest"
+        },
+        {
+          "title": "Fishy Mathematics",
+          "slug": "fishy-mathematics",
+          "source_url": "https://www.coachquant.com/sig/fishy-mathematics"
+        },
+        {
+          "title": "Flipped Correlation Dance",
+          "slug": "flipped-correlation-dance",
+          "source_url": "https://www.coachquant.com/sig/flipped-correlation-dance"
+        },
+        {
+          "title": "Gridlock Pathways",
+          "slug": "gridlock-pathways",
+          "source_url": "https://www.coachquant.com/sig/gridlock-pathways"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/sig/heads-prediction-puzzle"
+        },
+        {
+          "title": "Heads Wins",
+          "slug": "heads-wins",
+          "source_url": "https://www.coachquant.com/sig/heads-wins"
+        },
+        {
+          "title": "Lantern Bridge Dash",
+          "slug": "lantern-bridge-dash",
+          "source_url": "https://www.coachquant.com/sig/lantern-bridge-dash"
+        },
+        {
+          "title": "Last Roll Roulette",
+          "slug": "last-roll-roulette",
+          "source_url": "https://www.coachquant.com/sig/last-roll-roulette"
+        },
+        {
+          "title": "Dice Divisor Duel",
+          "slug": "dice-divisor-duel",
+          "source_url": "https://www.coachquant.com/sig/dice-divisor-duel"
+        },
+        {
+          "title": "Leggy Livestock Logic",
+          "slug": "leggy-livestock-logic",
+          "source_url": "https://www.coachquant.com/sig/leggy-livestock-logic"
+        },
+        {
+          "title": "Lucky Seventh Derivative",
+          "slug": "lucky-seventh-derivative",
+          "source_url": "https://www.coachquant.com/sig/lucky-seventh-derivative"
+        },
+        {
+          "title": "Market Bet Symmetry",
+          "slug": "market-bet-symmetry",
+          "source_url": "https://www.coachquant.com/sig/market-bet-symmetry"
+        },
+        {
+          "title": "Odd First Charm",
+          "slug": "odd-first-charm",
+          "source_url": "https://www.coachquant.com/sig/odd-first-charm"
+        },
+        {
+          "title": "Circle Randomness",
+          "slug": "circle-randomness",
+          "source_url": "https://www.coachquant.com/sig/circle-randomness"
+        },
+        {
+          "title": "Oil Gamble Option",
+          "slug": "oil-gamble-option",
+          "source_url": "https://www.coachquant.com/sig/oil-gamble-option"
+        },
+        {
+          "title": "Painted Cube Puzzle",
+          "slug": "painted-cube-puzzle",
+          "source_url": "https://www.coachquant.com/sig/painted-cube-puzzle"
+        },
+        {
+          "title": "Pond Paradox",
+          "slug": "pond-paradox",
+          "source_url": "https://www.coachquant.com/sig/pond-paradox"
+        },
+        {
+          "title": "Pooling Paradox",
+          "slug": "pooling-paradox",
+          "source_url": "https://www.coachquant.com/sig/pooling-paradox"
+        },
+        {
+          "title": "Prime Dice Quest",
+          "slug": "prime-dice-quest",
+          "source_url": "https://www.coachquant.com/sig/prime-dice-quest"
+        },
+        {
+          "title": "Coin Chase Duel",
+          "slug": "coin-chase-duel",
+          "source_url": "https://www.coachquant.com/sig/coin-chase-duel"
+        },
+        {
+          "title": "Double Five Quest",
+          "slug": "double-five-quest",
+          "source_url": "https://www.coachquant.com/sig/double-five-quest"
+        },
+        {
+          "title": "Coin Ratio Chase",
+          "slug": "coin-ratio-chase",
+          "source_url": "https://www.coachquant.com/sig/coin-ratio-chase"
+        },
+        {
+          "title": "Prime Playoff",
+          "slug": "prime-playoff",
+          "source_url": "https://www.coachquant.com/sig/prime-playoff"
+        },
+        {
+          "title": "Red Cube Hunt",
+          "slug": "red-cube-hunt",
+          "source_url": "https://www.coachquant.com/sig/red-cube-hunt"
+        },
+        {
+          "title": "Ripple Radius Race",
+          "slug": "ripple-radius-race",
+          "source_url": "https://www.coachquant.com/sig/ripple-radius-race"
+        },
+        {
+          "title": "Rising Hand Probability",
+          "slug": "rising-hand-probability",
+          "source_url": "https://www.coachquant.com/sig/rising-hand-probability"
+        },
+        {
+          "title": "Royal Race Earnings",
+          "slug": "royal-race-earnings",
+          "source_url": "https://www.coachquant.com/sig/royal-race-earnings"
+        },
+        {
+          "title": "Stock Valuation Mystery",
+          "slug": "stock-valuation-mystery",
+          "source_url": "https://www.coachquant.com/sig/stock-valuation-mystery"
+        },
+        {
+          "title": "Toasty Odds",
+          "slug": "toasty-odds",
+          "source_url": "https://www.coachquant.com/sig/toasty-odds"
+        },
+        {
+          "title": "Top Spot Quest",
+          "slug": "top-spot-quest",
+          "source_url": "https://www.coachquant.com/sig/top-spot-quest"
+        },
+        {
+          "title": "Triple Toss Trail",
+          "slug": "triple-toss-trail",
+          "source_url": "https://www.coachquant.com/sig/triple-toss-trail"
+        },
+        {
+          "title": "Auction Gamble",
+          "slug": "auction-gamble",
+          "source_url": "https://www.coachquant.com/sig/auction-gamble"
+        },
+        {
+          "title": "Twin Shuffle",
+          "slug": "twin-shuffle",
+          "source_url": "https://www.coachquant.com/sig/twin-shuffle"
+        },
+        {
+          "title": "Factorial Count Quest",
+          "slug": "factorial-count-quest",
+          "source_url": "https://www.coachquant.com/sig/factorial-count-quest"
+        },
+        {
+          "title": "Unhappy Countdown",
+          "slug": "unhappy-countdown",
+          "source_url": "https://www.coachquant.com/sig/unhappy-countdown"
+        },
+        {
+          "title": "Windy Pedal Puzzle",
+          "slug": "windy-pedal-puzzle",
+          "source_url": "https://www.coachquant.com/sig/windy-pedal-puzzle"
+        }
+      ]
+    },
+    {
+      "firm_name": "squarepoint-capital",
+      "firm_slug": "squarepoint-capital",
+      "question_count": 43,
+      "questions": [
+        {
+          "title": "Adjacent Ones Hunt",
+          "slug": "adjacent-ones-hunt",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/adjacent-ones-hunt"
+        },
+        {
+          "title": "Approaching Infinity",
+          "slug": "approaching-infinity",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/approaching-infinity"
+        },
+        {
+          "title": "Birthday Paradox Maximization",
+          "slug": "birthday-paradox-maximization",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/birthday-paradox-maximization"
+        },
+        {
+          "title": "Charmed Circlets",
+          "slug": "charmed-circlets",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/charmed-circlets"
+        },
+        {
+          "title": "Charred Pancake Puzzle",
+          "slug": "charred-pancake-puzzle",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/charred-pancake-puzzle"
+        },
+        {
+          "title": "Clock Hand Tango",
+          "slug": "clock-hand-tango",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/clock-hand-tango"
+        },
+        {
+          "title": "Coin Flip Faceoff",
+          "slug": "coin-flip-faceoff",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/coin-flip-faceoff"
+        },
+        {
+          "title": "Color Clump Count",
+          "slug": "color-clump-count",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/color-clump-count"
+        },
+        {
+          "title": "Color Conundrum",
+          "slug": "color-conundrum",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/color-conundrum"
+        },
+        {
+          "title": "Correlation Quest",
+          "slug": "correlation-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/correlation-quest"
+        },
+        {
+          "title": "Dice Deja Vu 2",
+          "slug": "dice-deja-vu-2",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dice-deja-vu-2"
+        },
+        {
+          "title": "Dice Peaks",
+          "slug": "dice-peaks",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dice-peaks"
+        },
+        {
+          "title": "Dice Surpass",
+          "slug": "dice-surpass",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dice-surpass"
+        },
+        {
+          "title": "Dual Positivity Quandary",
+          "slug": "dual-positivity-quandary",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dual-positivity-quandary"
+        },
+        {
+          "title": "Duplicated Data Mystery",
+          "slug": "duplicated-data-mystery",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/duplicated-data-mystery"
+        },
+        {
+          "title": "Doubled Data Dilemma",
+          "slug": "doubled-data-dilemma",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/doubled-data-dilemma"
+        },
+        {
+          "title": "Correlate Bound Quest",
+          "slug": "correlate-bound-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/correlate-bound-quest"
+        },
+        {
+          "title": "Equal Coin Faceoff",
+          "slug": "equal-coin-faceoff",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/equal-coin-faceoff"
+        },
+        {
+          "title": "Errors Unveiled",
+          "slug": "errors-unveiled",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/errors-unveiled"
+        },
+        {
+          "title": "Flitting Fowl Flight",
+          "slug": "flitting-fowl-flight",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/flitting-fowl-flight"
+        },
+        {
+          "title": "Goat Gambit",
+          "slug": "goat-gambit",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/goat-gambit"
+        },
+        {
+          "title": "Heads Wins",
+          "slug": "heads-wins",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/heads-wins"
+        },
+        {
+          "title": "Infinite Coin Toss",
+          "slug": "infinite-coin-toss",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/infinite-coin-toss"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dice-face-quest"
+        },
+        {
+          "title": "Infinite Power Puzzle",
+          "slug": "infinite-power-puzzle",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/infinite-power-puzzle"
+        },
+        {
+          "title": "Irrational Power Paradox",
+          "slug": "irrational-power-paradox",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/irrational-power-paradox"
+        },
+        {
+          "title": "Paradox Puzzle Parade",
+          "slug": "paradox-puzzle-parade",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/paradox-puzzle-parade"
+        },
+        {
+          "title": "Quadrant Surprise",
+          "slug": "quadrant-surprise",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/quadrant-surprise"
+        },
+        {
+          "title": "Red Black Showdown",
+          "slug": "red-black-showdown",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/red-black-showdown"
+        },
+        {
+          "title": "Regression Dance Limits",
+          "slug": "regression-dance-limits",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/regression-dance-limits"
+        },
+        {
+          "title": "Regression Synergy Puzzle",
+          "slug": "regression-synergy-puzzle",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/regression-synergy-puzzle"
+        },
+        {
+          "title": "Door Dilemma",
+          "slug": "door-dilemma",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/door-dilemma"
+        },
+        {
+          "title": "Scaling Mysteries",
+          "slug": "scaling-mysteries",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/scaling-mysteries"
+        },
+        {
+          "title": "Double Trouble Regression",
+          "slug": "double-trouble-regression",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/double-trouble-regression"
+        },
+        {
+          "title": "Scaling Riddle",
+          "slug": "scaling-riddle",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/scaling-riddle"
+        },
+        {
+          "title": "Semicircle Surprise",
+          "slug": "semicircle-surprise",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/semicircle-surprise"
+        },
+        {
+          "title": "Dice Correlation Quest",
+          "slug": "dice-correlation-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/dice-correlation-quest"
+        },
+        {
+          "title": "Slope Sum Quest",
+          "slug": "slope-sum-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/slope-sum-quest"
+        },
+        {
+          "title": "Speedy Blocks",
+          "slug": "speedy-blocks",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/speedy-blocks"
+        },
+        {
+          "title": "Sum of Slopes",
+          "slug": "sum-of-slopes",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/sum-of-slopes"
+        },
+        {
+          "title": "Trilogy of Tosses",
+          "slug": "trilogy-of-tosses",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/trilogy-of-tosses"
+        },
+        {
+          "title": "Triple Six Quest",
+          "slug": "triple-six-quest",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/triple-six-quest"
+        },
+        {
+          "title": "Twin Birthrate Apex",
+          "slug": "twin-birthrate-apex",
+          "source_url": "https://www.coachquant.com/squarepoint-capital/twin-birthrate-apex"
+        }
+      ]
+    },
+    {
+      "firm_name": "transmarket-group",
+      "firm_slug": "transmarket-group",
+      "question_count": 34,
+      "questions": [
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/transmarket-group/biased-flip-picks"
+        },
+        {
+          "title": "Candle Conundrum",
+          "slug": "candle-conundrum",
+          "source_url": "https://www.coachquant.com/transmarket-group/candle-conundrum"
+        },
+        {
+          "title": "Circle Survivor",
+          "slug": "circle-survivor",
+          "source_url": "https://www.coachquant.com/transmarket-group/circle-survivor"
+        },
+        {
+          "title": "Correlated Sum Mystery",
+          "slug": "correlated-sum-mystery",
+          "source_url": "https://www.coachquant.com/transmarket-group/correlated-sum-mystery"
+        },
+        {
+          "title": "Cubicle Crawl Quest",
+          "slug": "cubicle-crawl-quest",
+          "source_url": "https://www.coachquant.com/transmarket-group/cubicle-crawl-quest"
+        },
+        {
+          "title": "Dice Delight Dilemma",
+          "slug": "dice-delight-dilemma",
+          "source_url": "https://www.coachquant.com/transmarket-group/dice-delight-dilemma"
+        },
+        {
+          "title": "Dice Dominance",
+          "slug": "dice-dominance",
+          "source_url": "https://www.coachquant.com/transmarket-group/dice-dominance"
+        },
+        {
+          "title": "Dicey Decisions",
+          "slug": "dicey-decisions",
+          "source_url": "https://www.coachquant.com/transmarket-group/dicey-decisions"
+        },
+        {
+          "title": "Duel Mowers Dash",
+          "slug": "duel-mowers-dash",
+          "source_url": "https://www.coachquant.com/transmarket-group/duel-mowers-dash"
+        },
+        {
+          "title": "Eigenvalue Squaredogs",
+          "slug": "eigenvalue-squaredogs",
+          "source_url": "https://www.coachquant.com/transmarket-group/eigenvalue-squaredogs"
+        },
+        {
+          "title": "Ladder Slide Chase",
+          "slug": "ladder-slide-chase",
+          "source_url": "https://www.coachquant.com/transmarket-group/ladder-slide-chase"
+        },
+        {
+          "title": "Light Shift Chance",
+          "slug": "light-shift-chance",
+          "source_url": "https://www.coachquant.com/transmarket-group/light-shift-chance"
+        },
+        {
+          "title": "Opposite Sum Swap",
+          "slug": "opposite-sum-swap",
+          "source_url": "https://www.coachquant.com/transmarket-group/opposite-sum-swap"
+        },
+        {
+          "title": "Egg Drop Dilemma",
+          "slug": "egg-drop-dilemma",
+          "source_url": "https://www.coachquant.com/transmarket-group/egg-drop-dilemma"
+        },
+        {
+          "title": "Option Magic",
+          "slug": "option-magic",
+          "source_url": "https://www.coachquant.com/transmarket-group/option-magic"
+        },
+        {
+          "title": "Dice Option Puzzle",
+          "slug": "dice-option-puzzle",
+          "source_url": "https://www.coachquant.com/transmarket-group/dice-option-puzzle"
+        },
+        {
+          "title": "Parity Dance",
+          "slug": "parity-dance",
+          "source_url": "https://www.coachquant.com/transmarket-group/parity-dance"
+        },
+        {
+          "title": "Perfect Pair Mystique",
+          "slug": "perfect-pair-mystique",
+          "source_url": "https://www.coachquant.com/transmarket-group/perfect-pair-mystique"
+        },
+        {
+          "title": "Pipe Trio Puzzle",
+          "slug": "pipe-trio-puzzle",
+          "source_url": "https://www.coachquant.com/transmarket-group/pipe-trio-puzzle"
+        },
+        {
+          "title": "Probability Twists",
+          "slug": "probability-twists",
+          "source_url": "https://www.coachquant.com/transmarket-group/probability-twists"
+        },
+        {
+          "title": "Rainbow Cube Corners",
+          "slug": "rainbow-cube-corners",
+          "source_url": "https://www.coachquant.com/transmarket-group/rainbow-cube-corners"
+        },
+        {
+          "title": "Eggsplosive Heights",
+          "slug": "eggsplosive-heights",
+          "source_url": "https://www.coachquant.com/transmarket-group/eggsplosive-heights"
+        },
+        {
+          "title": "Ripple Radius Race",
+          "slug": "ripple-radius-race",
+          "source_url": "https://www.coachquant.com/transmarket-group/ripple-radius-race"
+        },
+        {
+          "title": "Sequential Ones Quest",
+          "slug": "sequential-ones-quest",
+          "source_url": "https://www.coachquant.com/transmarket-group/sequential-ones-quest"
+        },
+        {
+          "title": "Sliding Angle Dynamics",
+          "slug": "sliding-angle-dynamics",
+          "source_url": "https://www.coachquant.com/transmarket-group/sliding-angle-dynamics"
+        },
+        {
+          "title": "Sock Grab Dilemma",
+          "slug": "sock-grab-dilemma",
+          "source_url": "https://www.coachquant.com/transmarket-group/sock-grab-dilemma"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/transmarket-group/heads-prediction-puzzle"
+        },
+        {
+          "title": "Speedy Paradox",
+          "slug": "speedy-paradox",
+          "source_url": "https://www.coachquant.com/transmarket-group/speedy-paradox"
+        },
+        {
+          "title": "Speedy Trio Quest",
+          "slug": "speedy-trio-quest",
+          "source_url": "https://www.coachquant.com/transmarket-group/speedy-trio-quest"
+        },
+        {
+          "title": "Correlated Contrasts",
+          "slug": "correlated-contrasts",
+          "source_url": "https://www.coachquant.com/transmarket-group/correlated-contrasts"
+        },
+        {
+          "title": "Triple Six Quest",
+          "slug": "triple-six-quest",
+          "source_url": "https://www.coachquant.com/transmarket-group/triple-six-quest"
+        },
+        {
+          "title": "Triple Toss Trail",
+          "slug": "triple-toss-trail",
+          "source_url": "https://www.coachquant.com/transmarket-group/triple-toss-trail"
+        },
+        {
+          "title": "Twist Correlation",
+          "slug": "twist-correlation",
+          "source_url": "https://www.coachquant.com/transmarket-group/twist-correlation"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/transmarket-group/dice-face-quest"
+        }
+      ]
+    },
+    {
+      "firm_name": "two-sigma",
+      "firm_slug": "two-sigma",
+      "question_count": 52,
+      "questions": [
+        {
+          "title": "Ace Chase Showdown",
+          "slug": "ace-chase-showdown",
+          "source_url": "https://www.coachquant.com/two-sigma/ace-chase-showdown"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/two-sigma/biased-flip-picks"
+        },
+        {
+          "title": "Birthday Paradox Quest",
+          "slug": "birthday-paradox-quest",
+          "source_url": "https://www.coachquant.com/two-sigma/birthday-paradox-quest"
+        },
+        {
+          "title": "Bus Wait Paradox",
+          "slug": "bus-wait-paradox",
+          "source_url": "https://www.coachquant.com/two-sigma/bus-wait-paradox"
+        },
+        {
+          "title": "Cardworthy Clients",
+          "slug": "cardworthy-clients",
+          "source_url": "https://www.coachquant.com/two-sigma/cardworthy-clients"
+        },
+        {
+          "title": "Concert Mystery Math",
+          "slug": "concert-mystery-math",
+          "source_url": "https://www.coachquant.com/two-sigma/concert-mystery-math"
+        },
+        {
+          "title": "Correlate Twins",
+          "slug": "correlate-twins",
+          "source_url": "https://www.coachquant.com/two-sigma/correlate-twins"
+        },
+        {
+          "title": "Cubist Color Clash",
+          "slug": "cubist-color-clash",
+          "source_url": "https://www.coachquant.com/two-sigma/cubist-color-clash"
+        },
+        {
+          "title": "Dice Ascendancy",
+          "slug": "dice-ascendancy",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-ascendancy"
+        },
+        {
+          "title": "Dice Coin Alchemy",
+          "slug": "dice-coin-alchemy",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-coin-alchemy"
+        },
+        {
+          "title": "Dice Divisibility Dance",
+          "slug": "dice-divisibility-dance",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-divisibility-dance"
+        },
+        {
+          "title": "Dice Divisors Delight",
+          "slug": "dice-divisors-delight",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-divisors-delight"
+        },
+        {
+          "title": "Dice Flip Fortune",
+          "slug": "dice-flip-fortune",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-flip-fortune"
+        },
+        {
+          "title": "Dice Gamble Dilemma",
+          "slug": "dice-gamble-dilemma",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-gamble-dilemma"
+        },
+        {
+          "title": "Dice Gamble Worth",
+          "slug": "dice-gamble-worth",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-gamble-worth"
+        },
+        {
+          "title": "Dice Medley Showdown",
+          "slug": "dice-medley-showdown",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-medley-showdown"
+        },
+        {
+          "title": "Dice Mystery Solver",
+          "slug": "dice-mystery-solver",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-mystery-solver"
+        },
+        {
+          "title": "Dice Race Summit",
+          "slug": "dice-race-summit",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-race-summit"
+        },
+        {
+          "title": "Dice Reimagined",
+          "slug": "dice-reimagined",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-reimagined"
+        },
+        {
+          "title": "Dice Reprise",
+          "slug": "dice-reprise",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-reprise"
+        },
+        {
+          "title": "Dice Triad Triumph",
+          "slug": "dice-triad-triumph",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-triad-triumph"
+        },
+        {
+          "title": "Dicey Dilemmas",
+          "slug": "dicey-dilemmas",
+          "source_url": "https://www.coachquant.com/two-sigma/dicey-dilemmas"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-face-quest"
+        },
+        {
+          "title": "Die Dilemma Decision",
+          "slug": "die-dilemma-decision",
+          "source_url": "https://www.coachquant.com/two-sigma/die-dilemma-decision"
+        },
+        {
+          "title": "Digit Treasure Sum",
+          "slug": "digit-treasure-sum",
+          "source_url": "https://www.coachquant.com/two-sigma/digit-treasure-sum"
+        },
+        {
+          "title": "Dice Duality Delight",
+          "slug": "dice-duality-delight",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-duality-delight"
+        },
+        {
+          "title": "Divisor Dash",
+          "slug": "divisor-dash",
+          "source_url": "https://www.coachquant.com/two-sigma/divisor-dash"
+        },
+        {
+          "title": "Duplicated Data Mystery",
+          "slug": "duplicated-data-mystery",
+          "source_url": "https://www.coachquant.com/two-sigma/duplicated-data-mystery"
+        },
+        {
+          "title": "Chordal Quadrilateral Chance",
+          "slug": "chordal-quadrilateral-chance",
+          "source_url": "https://www.coachquant.com/two-sigma/chordal-quadrilateral-chance"
+        },
+        {
+          "title": "Even Roll Whispers",
+          "slug": "even-roll-whispers",
+          "source_url": "https://www.coachquant.com/two-sigma/even-roll-whispers"
+        },
+        {
+          "title": "Girlish Guesswork",
+          "slug": "girlish-guesswork",
+          "source_url": "https://www.coachquant.com/two-sigma/girlish-guesswork"
+        },
+        {
+          "title": "Heads Prediction Puzzle",
+          "slug": "heads-prediction-puzzle",
+          "source_url": "https://www.coachquant.com/two-sigma/heads-prediction-puzzle"
+        },
+        {
+          "title": "Illuminated Insight",
+          "slug": "illuminated-insight",
+          "source_url": "https://www.coachquant.com/two-sigma/illuminated-insight"
+        },
+        {
+          "title": "Letter Blitz Strategy",
+          "slug": "letter-blitz-strategy",
+          "source_url": "https://www.coachquant.com/two-sigma/letter-blitz-strategy"
+        },
+        {
+          "title": "Dice Face Chase",
+          "slug": "dice-face-chase",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-face-chase"
+        },
+        {
+          "title": "Maximus Expectatus",
+          "slug": "maximus-expectatus",
+          "source_url": "https://www.coachquant.com/two-sigma/maximus-expectatus"
+        },
+        {
+          "title": "Painted Cube Mystery",
+          "slug": "painted-cube-mystery",
+          "source_url": "https://www.coachquant.com/two-sigma/painted-cube-mystery"
+        },
+        {
+          "title": "Poison Puzzle",
+          "slug": "poison-puzzle",
+          "source_url": "https://www.coachquant.com/two-sigma/poison-puzzle"
+        },
+        {
+          "title": "Power Surprise",
+          "slug": "power-surprise",
+          "source_url": "https://www.coachquant.com/two-sigma/power-surprise"
+        },
+        {
+          "title": "Prime Product Quest",
+          "slug": "prime-product-quest",
+          "source_url": "https://www.coachquant.com/two-sigma/prime-product-quest"
+        },
+        {
+          "title": "Regression Synergy Puzzle",
+          "slug": "regression-synergy-puzzle",
+          "source_url": "https://www.coachquant.com/two-sigma/regression-synergy-puzzle"
+        },
+        {
+          "title": "Remainder Riddles",
+          "slug": "remainder-riddles",
+          "source_url": "https://www.coachquant.com/two-sigma/remainder-riddles"
+        },
+        {
+          "title": "Scaling Mysteries",
+          "slug": "scaling-mysteries",
+          "source_url": "https://www.coachquant.com/two-sigma/scaling-mysteries"
+        },
+        {
+          "title": "Sharpshooter Showdown",
+          "slug": "sharpshooter-showdown",
+          "source_url": "https://www.coachquant.com/two-sigma/sharpshooter-showdown"
+        },
+        {
+          "title": "Dice Product Paradox",
+          "slug": "dice-product-paradox",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-product-paradox"
+        },
+        {
+          "title": "Shifted Expectation",
+          "slug": "shifted-expectation",
+          "source_url": "https://www.coachquant.com/two-sigma/shifted-expectation"
+        },
+        {
+          "title": "Spending Showdown",
+          "slug": "spending-showdown",
+          "source_url": "https://www.coachquant.com/two-sigma/spending-showdown"
+        },
+        {
+          "title": "Stochastic Log Dance",
+          "slug": "stochastic-log-dance",
+          "source_url": "https://www.coachquant.com/two-sigma/stochastic-log-dance"
+        },
+        {
+          "title": "Three Dice Tango",
+          "slug": "three-dice-tango",
+          "source_url": "https://www.coachquant.com/two-sigma/three-dice-tango"
+        },
+        {
+          "title": "Twists and Turns",
+          "slug": "twists-and-turns",
+          "source_url": "https://www.coachquant.com/two-sigma/twists-and-turns"
+        },
+        {
+          "title": "Dice Duel Choice",
+          "slug": "dice-duel-choice",
+          "source_url": "https://www.coachquant.com/two-sigma/dice-duel-choice"
+        },
+        {
+          "title": "Victorious Pathway",
+          "slug": "victorious-pathway",
+          "source_url": "https://www.coachquant.com/two-sigma/victorious-pathway"
+        }
+      ]
+    },
+    {
+      "firm_name": "worldquant",
+      "firm_slug": "worldquant",
+      "question_count": 32,
+      "questions": [
+        {
+          "title": "Adjacent Duo Dance",
+          "slug": "adjacent-duo-dance",
+          "source_url": "https://www.coachquant.com/worldquant/adjacent-duo-dance"
+        },
+        {
+          "title": "Aging Circle Spin",
+          "slug": "aging-circle-spin",
+          "source_url": "https://www.coachquant.com/worldquant/aging-circle-spin"
+        },
+        {
+          "title": "Apple Countdown",
+          "slug": "apple-countdown",
+          "source_url": "https://www.coachquant.com/worldquant/apple-countdown"
+        },
+        {
+          "title": "Bean Weight Quest",
+          "slug": "bean-weight-quest",
+          "source_url": "https://www.coachquant.com/worldquant/bean-weight-quest"
+        },
+        {
+          "title": "Biased Flip Picks",
+          "slug": "biased-flip-picks",
+          "source_url": "https://www.coachquant.com/worldquant/biased-flip-picks"
+        },
+        {
+          "title": "Coin Flip Dynamics",
+          "slug": "coin-flip-dynamics",
+          "source_url": "https://www.coachquant.com/worldquant/coin-flip-dynamics"
+        },
+        {
+          "title": "Color Code Quest",
+          "slug": "color-code-quest",
+          "source_url": "https://www.coachquant.com/worldquant/color-code-quest"
+        },
+        {
+          "title": "Decay Dive",
+          "slug": "decay-dive",
+          "source_url": "https://www.coachquant.com/worldquant/decay-dive"
+        },
+        {
+          "title": "Coin Chase Duel",
+          "slug": "coin-chase-duel",
+          "source_url": "https://www.coachquant.com/worldquant/coin-chase-duel"
+        },
+        {
+          "title": "Dice Face Quest",
+          "slug": "dice-face-quest",
+          "source_url": "https://www.coachquant.com/worldquant/dice-face-quest"
+        },
+        {
+          "title": "Digit Deluge",
+          "slug": "digit-deluge",
+          "source_url": "https://www.coachquant.com/worldquant/digit-deluge"
+        },
+        {
+          "title": "Diophantine Dance",
+          "slug": "diophantine-dance",
+          "source_url": "https://www.coachquant.com/worldquant/diophantine-dance"
+        },
+        {
+          "title": "Cylindrical Crossroads",
+          "slug": "cylindrical-crossroads",
+          "source_url": "https://www.coachquant.com/worldquant/cylindrical-crossroads"
+        },
+        {
+          "title": "Egg Drop Dilemma",
+          "slug": "egg-drop-dilemma",
+          "source_url": "https://www.coachquant.com/worldquant/egg-drop-dilemma"
+        },
+        {
+          "title": "Eggsplosive Heights",
+          "slug": "eggsplosive-heights",
+          "source_url": "https://www.coachquant.com/worldquant/eggsplosive-heights"
+        },
+        {
+          "title": "Age Circle Riddle",
+          "slug": "age-circle-riddle",
+          "source_url": "https://www.coachquant.com/worldquant/age-circle-riddle"
+        },
+        {
+          "title": "Factorial Count Quest",
+          "slug": "factorial-count-quest",
+          "source_url": "https://www.coachquant.com/worldquant/factorial-count-quest"
+        },
+        {
+          "title": "Matrix Shuffle Magic",
+          "slug": "matrix-shuffle-magic",
+          "source_url": "https://www.coachquant.com/worldquant/matrix-shuffle-magic"
+        },
+        {
+          "title": "Permutation Swap Chaos",
+          "slug": "permutation-swap-chaos",
+          "source_url": "https://www.coachquant.com/worldquant/permutation-swap-chaos"
+        },
+        {
+          "title": "Coin Clash",
+          "slug": "coin-clash",
+          "source_url": "https://www.coachquant.com/worldquant/coin-clash"
+        },
+        {
+          "title": "Cube Quest",
+          "slug": "cube-quest",
+          "source_url": "https://www.coachquant.com/worldquant/cube-quest"
+        },
+        {
+          "title": "Random Ant Trek",
+          "slug": "random-ant-trek",
+          "source_url": "https://www.coachquant.com/worldquant/random-ant-trek"
+        },
+        {
+          "title": "Chop Chance",
+          "slug": "chop-chance",
+          "source_url": "https://www.coachquant.com/worldquant/chop-chance"
+        },
+        {
+          "title": "Cyclic Multiplier Puzzle",
+          "slug": "cyclic-multiplier-puzzle",
+          "source_url": "https://www.coachquant.com/worldquant/cyclic-multiplier-puzzle"
+        },
+        {
+          "title": "Sharpe Surge Puzzle",
+          "slug": "sharpe-surge-puzzle",
+          "source_url": "https://www.coachquant.com/worldquant/sharpe-surge-puzzle"
+        },
+        {
+          "title": "Squaring Exponents",
+          "slug": "squaring-exponents",
+          "source_url": "https://www.coachquant.com/worldquant/squaring-exponents"
+        },
+        {
+          "title": "Triangular Trisection",
+          "slug": "triangular-trisection",
+          "source_url": "https://www.coachquant.com/worldquant/triangular-trisection"
+        },
+        {
+          "title": "Triple Tails Quest",
+          "slug": "triple-tails-quest",
+          "source_url": "https://www.coachquant.com/worldquant/triple-tails-quest"
+        },
+        {
+          "title": "Uniform Puzzler",
+          "slug": "uniform-puzzler",
+          "source_url": "https://www.coachquant.com/worldquant/uniform-puzzler"
+        },
+        {
+          "title": "Variance Twist",
+          "slug": "variance-twist",
+          "source_url": "https://www.coachquant.com/worldquant/variance-twist"
+        },
+        {
+          "title": "Ball Play Paradox",
+          "slug": "ball-play-paradox",
+          "source_url": "https://www.coachquant.com/worldquant/ball-play-paradox"
+        },
+        {
+          "title": "Wandering Ant Odyssey",
+          "slug": "wandering-ant-odyssey",
+          "source_url": "https://www.coachquant.com/worldquant/wandering-ant-odyssey"
+        }
+      ]
+    }
+  ]
+}

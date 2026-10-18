@@ -61,4 +61,11 @@ class Wiki::ArticlesControllerTest < ActionDispatch::IntegrationTest
     assert_redirected_to wiki_article_path(article.reload)
     assert_equal "new summary", article.summary
   end
+
+  test "article show page includes a local graph container" do
+    article = WikiArticle.create!(title: "Options", summary: "s", body: "b", category: "Derivatives")
+
+    get wiki_article_path(article)
+    assert_select "#wiki-local-graph"
+  end
 end
