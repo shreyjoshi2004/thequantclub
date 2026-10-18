@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[8.1].define(version: 2026_10_17_120001) do
+ActiveRecord::Schema[8.1].define(version: 2026_10_17_120002) do
   create_table "wiki_articles", force: :cascade do |t|
     t.string "title", null: false
     t.string "slug", null: false
@@ -21,4 +21,17 @@ ActiveRecord::Schema[8.1].define(version: 2026_10_17_120001) do
     t.datetime "updated_at", null: false
     t.index ["slug"], name: "index_wiki_articles_on_slug", unique: true
   end
+
+  create_table "wiki_links", force: :cascade do |t|
+    t.integer "from_article_id", null: false
+    t.integer "to_article_id", null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+    t.index ["from_article_id", "to_article_id"], name: "index_wiki_links_on_from_and_to", unique: true
+    t.index ["from_article_id"], name: "index_wiki_links_on_from_article_id"
+    t.index ["to_article_id"], name: "index_wiki_links_on_to_article_id"
+  end
+
+  add_foreign_key "wiki_links", "wiki_articles", column: "from_article_id"
+  add_foreign_key "wiki_links", "wiki_articles", column: "to_article_id"
 end
