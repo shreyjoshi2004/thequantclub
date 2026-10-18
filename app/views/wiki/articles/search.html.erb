@@ -1,0 +1,19 @@
+<%# app/views/wiki/articles/search.html.erb %>
+<% content_for :title, "Search — TheQuantClub Wiki" %>
+
+<main class="wiki-search-page">
+  <h1>Search results for "<%= @query %>"</h1>
+
+  <ul class="wiki-search-results">
+    <% @results.each do |article| %>
+      <li class="wiki-search-result">
+        <%= link_to article.title, wiki_article_path(article) %>
+        <p><%= article.summary %></p>
+      </li>
+    <% end %>
+  </ul>
+
+  <% if @results.none? %>
+    <p>No articles matched your search.</p>
+  <% end %>
+</main>

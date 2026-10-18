@@ -1,0 +1,41 @@
+<%# app/views/wiki/articles/show.html.erb %>
+<% content_for :title, "#{@article.title} — TheQuantClub Wiki" %>
+
+<main class="wiki-article-layout">
+  <article class="wiki-article-body">
+    <nav class="wiki-toc">
+      <% @headings.each do |heading| %>
+        <div><%= link_to heading.text, "##{heading.id}" %></div>
+      <% end %>
+    </nav>
+
+    <h1><%= @article.title %></h1>
+    <%= @body_html %>
+
+    <% if @backlinks.any? %>
+      <section class="wiki-backlinks">
+        <h2>Articles that link here</h2>
+        <ul>
+          <% @backlinks.each do |article| %>
+            <li><%= link_to article.title, wiki_article_path(article) %></li>
+          <% end %>
+        </ul>
+      </section>
+    <% end %>
+  </article>
+
+  <aside class="wiki-infobox">
+    <h3>Key facts</h3>
+    <dl>
+      <dt>Category</dt>
+      <dd><%= @article.category.presence || "Uncategorized" %></dd>
+      <dt>Related</dt>
+      <dd>
+        <% @related.each do |article| %>
+          <%= link_to article.title, wiki_article_path(article) %><br>
+        <% end %>
+      </dd>
+    </dl>
+    <%= link_to "Edit this article", edit_wiki_article_path(@article) %>
+  </aside>
+</main>

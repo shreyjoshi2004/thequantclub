@@ -1,0 +1,43 @@
+<%# app/views/wiki/articles/index.html.erb %>
+<% content_for :title, "Wiki — TheQuantClub" %>
+
+<main class="wiki-home">
+  <div class="wiki-masthead">
+    <h1>TheQuantClub Wiki</h1>
+    <%= form_with url: wiki_search_path, method: :get, class: "wiki-search" do %>
+      <%= text_field_tag :q, params[:q], placeholder: "Search the wiki" %>
+      <%= submit_tag "Search" %>
+    <% end %>
+  </div>
+
+  <p>
+    <%= link_to "View the article graph", wiki_graph_path %>
+    ·
+    <%= link_to "New article", new_wiki_article_path %>
+  </p>
+
+  <% if @term_of_the_day %>
+    <section class="wiki-term-of-day">
+      <h2>Term of the day: <%= link_to @term_of_the_day.title, wiki_article_path(@term_of_the_day) %></h2>
+      <p><%= @term_of_the_day.summary %></p>
+    </section>
+  <% end %>
+
+  <section class="wiki-categories">
+    <% @categories.each do |category, count| %>
+      <div class="wiki-category-card">
+        <h3><%= category.presence || "Uncategorized" %></h3>
+        <p><%= pluralize(count, "article") %></p>
+      </div>
+    <% end %>
+  </section>
+
+  <section>
+    <h2>Recently added</h2>
+    <ul>
+      <% @recent.each do |article| %>
+        <li><%= link_to article.title, wiki_article_path(article) %></li>
+      <% end %>
+    </ul>
+  </section>
+</main>

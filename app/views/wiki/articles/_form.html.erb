@@ -1,0 +1,31 @@
+<%= form_with model: article, url: (article.persisted? ? wiki_article_path(article) : wiki_articles_path), class: "wiki-form" do |form| %>
+  <% if article.errors.any? %>
+    <ul class="wiki-form-errors">
+      <% article.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+    </ul>
+  <% end %>
+
+  <label>
+    Title
+    <%= form.text_field :title %>
+  </label>
+
+  <label>
+    Category
+    <%= form.text_field :category %>
+  </label>
+
+  <label>
+    Summary
+    <%= form.text_area :summary %>
+  </label>
+
+  <label>
+    Body
+    <%= form.text_area :body %>
+  </label>
+
+  <%= form.submit article.persisted? ? "Save changes" : "Create article" %>
+<% end %>

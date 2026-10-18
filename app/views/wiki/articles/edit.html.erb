@@ -1,0 +1,7 @@
+<%# app/views/wiki/articles/edit.html.erb %>
+<% content_for :title, "Edit #{@article.title} — TheQuantClub Wiki" %>
+
+<main class="wiki-form-page">
+  <h1>Edit <%= @article.title %></h1>
+  <%= render "form", article: @article %>
+</main>
