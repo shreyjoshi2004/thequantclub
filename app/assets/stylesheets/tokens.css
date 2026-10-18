@@ -1,0 +1,14 @@
+/* app/assets/stylesheets/tokens.css */
+:root {
+  --color-ink: #14181f;
+  --color-paper: #f7f7f4;
+  --color-navy: #10192b;
+  --color-ledger-green: #0b6e4f;
+  --color-hairline: #dadad2;
+  --color-amber: #c27803;
+
+  --font-serif: "Source Serif 4", Georgia, "Iowan Old Style", serif;
+  --font-sans: "IBM Plex Sans", system-ui, sans-serif;
+
+  --measure: 72ch;
+}

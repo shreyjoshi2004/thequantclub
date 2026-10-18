@@ -1,0 +1,9 @@
+<%# app/views/layouts/_nav.html.erb %>
+<nav class="site-nav">
+  <%= link_to "TheQuantClub", root_path, class: "site-nav-brand" %>
+  <div class="site-nav-links">
+    <%= link_to "Wiki", wiki_path, class: ("is-active" if current_page?(wiki_path)) %>
+    <%= link_to "Interview", interview_problems_path, class: ("is-active" if current_page?(interview_problems_path)) %>
+    <%= link_to "Trade", trade_path, class: ("is-active" if current_page?(trade_path)) %>
+  </div>
+</nav>
