@@ -1,0 +1,22 @@
+<%# app/views/home/index.html.erb %>
+<% content_for :title, "TheQuantClub" %>
+
+<main class="home-landing">
+  <h1>TheQuantClub</h1>
+  <p class="home-tagline">Learn the mechanics, practice the interview, trade the idea.</p>
+
+  <ul class="home-entry-cards">
+    <li class="home-entry-card">
+      <h2><%= link_to "Wiki", wiki_path %></h2>
+      <p>A reference wiki for options, market structure, and probability, with an interlink graph.</p>
+    </li>
+    <li class="home-entry-card">
+      <h2><%= link_to "Interview", interview_problems_path %></h2>
+      <p>Practice quant interview problems and talk through your reasoning with an AI interviewer.</p>
+    </li>
+    <li class="home-entry-card">
+      <h2><%= link_to "Trade", trade_path %></h2>
+      <p>Coming soon.</p>
+    </li>
+  </ul>
+</main>
